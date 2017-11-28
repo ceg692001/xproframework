@@ -1,0 +1,23 @@
+/**
+ * ----------------------------------------------------------------------------------------
+ * Footer styles.
+ * ----------------------------------------------------------------------------------------
+ */
+
+/**
+ * Main footer.
+ */
+
+footer {
+	padding:25px 15px;
+	background-color: #111111;
+	min-height:120px;
+}
+
+.site-footer {
+	margin-bottom: 0;
+
+	.footer-sidebar {
+		margin-bottom: $global-bottom-margin;
+	}
+}

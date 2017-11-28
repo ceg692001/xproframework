@@ -1,0 +1,65 @@
+/**
+ * ----------------------------------------------------------------------------------------
+ * Site settings.
+ * ----------------------------------------------------------------------------------------
+ */
+
+
+// Colors
+
+$xpro-blue-dark:          #000153;
+$xpro-blue-light-dark:    #000CB1;
+$xpro-blue-light-light:   #9EEEFE;
+$xpro-blue-light:         #0084FF;
+$xpro-gray-bg:            #323232;
+$xpro-gray-bg2:           #181818;
+
+$body-text-color: lighten( #d0d0d0, 15%);
+$medium-text-color: lighten($body-text-color, 20%);
+$light-text-color: lighten($body-text-color, 50%);
+$link-color: $xpro-blue-light-light;
+$link-hover-color: darken($link-color, 15%);
+$border-color: #ccc;
+$white: #fff;
+
+$color-1: #000;
+$color-2: #000;
+$color-3: #000;
+$color-4: #000;
+$color-5: #000;
+
+$header-bg-color: #000;
+
+// Social Media Colors
+$color-facebook:								#3B5998;
+$color-twitter:									#4099FF;
+$color-rss:										#FF6600;
+$color-google-plus:								#dd4b39;
+$color-pinterest:								#BC061C;
+$color-linkedin:								#0077B5;
+
+// Typography
+$base-font-size: 14px;
+$baseline: ($base-font-size * 1.5);
+
+$body-text-font: 'Alegreya SC', serif;
+$heading-font: 'Alegreya SC', serif;
+
+// Spacing
+$global-bottom-margin: ($baseline * 3);
+$blog-post-bottom-margin: ($baseline * 3);
+$widget-bottom-margin: ($baseline * 2);
+$header-tb-padding: $baseline;
+$header-lr-padding: 0;
+
+// Buttons
+$btn-1-bg: $color-1;
+$btn-1-text-color: #fff;
+$btn-2-bg: $color-2;
+$btn-2-text-color: #fff;
+$btn-3-bg: $color-3;
+$btn-3-text-color: #fff;
+$btn-4-bg: $color-4;
+$btn-4-text-color: #fff;
+$btn-5-bg: $color-5;
+$btn-5-text-color: #fff;

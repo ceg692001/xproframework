@@ -1,0 +1,205 @@
+/**
+ * ----------------------------------------------------------------------------------------
+ * Base styles.
+ * ----------------------------------------------------------------------------------------
+ */
+
+body {
+	position: relative;
+	
+	color: $body-text-color;
+	font: #{$base-font-size}/#{$baseline} $body-text-font;
+	-webkit-font-smoothing: antialiased;
+	//margin-top: 70vh;
+}
+
+/**
+ * Default spacing for paragraphs.
+ */
+p {
+	margin-bottom: $baseline;
+}
+
+/**
+ * Default styles for all headings.
+ */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	margin-bottom: $baseline;
+
+	font-family: $heading-font;
+}
+
+/**
+ * Individual styles for the headings.
+ */
+h1 {}
+
+h2 {}
+
+h3 {}
+
+h4 {}
+
+h5 {}
+
+h6 {}
+
+/**
+ * Links.
+ */
+a {
+	color: $link-color;
+	text-decoration: none;
+
+	&:hover {
+		color: $link-hover-color;
+		text-decoration: none;
+	}
+}
+
+/**
+ * Blockquotes.
+ */
+blockquote {
+	font-style: italic;
+
+	cite {
+		display: block;
+	}
+}
+
+/**
+ * HR.
+ */
+hr {
+	margin: $baseline 0;
+	
+	border-color: $border-color;
+}
+
+/**
+ * Make sure videos and embeds fit inside their containers.
+ */
+embed,
+iframe,
+object,
+video {
+	max-width: 100%;
+}
+
+/**
+ * Fluid images for posts.
+ */
+img[class*="wp-image-"],
+.size-auto,
+.size-full,
+.size-large,
+.size-medium,
+.size-thumbnail {
+	@extend .img-responsive;
+}
+
+/**
+ * Code.
+ */
+code {
+	white-space: normal;
+}
+
+.no-padding {
+	padding:0;
+}
+
+.jumbotron {
+	background-color: $xpro-gray-bg;
+}
+
+i.gax-icon {
+  span {
+    @media screen, print {
+      display: none;
+    }
+  }
+}
+
+@mixin social-media-button($color) {
+  background-color: $color;
+  &:hover,
+  &:active,
+  &:focus {
+    color: $color;
+    border-color: $color;
+    //background-color: lighten($color, 10%);
+  }
+}
+
+.social-media-button {
+  color: $white;
+  display: inline-block;
+  text-align: center;
+  &:hover,
+  &:active,
+  &:focus {
+    color: $white;
+    text-decoration: none;
+    -webkit-transition: all 200ms ease;
+    -moz-transition: all 200ms ease;
+    -ms-transition: all 200ms ease;
+    -o-transition: all 200ms ease;
+    transition: all 200ms ease;
+  }
+  &.lg {
+    height: 40px;
+    line-height: 2.4;
+    width: 40px;
+  }
+  &.sm {
+    height: 25px;
+    line-height: 2.0;
+    width: 25px;
+  }
+  &.circle {
+    @extend .img-circle;
+  }
+  &.rounded {
+    @extend .img-rounded;
+  }
+  &.square {
+    @include border-radius(0px);
+  }
+  &.facebook-button {
+    @include social-media-button($color-facebook);
+    color: $xpro-blue-light-light;
+    background-color: transparent;
+    border:1px solid $xpro-blue-light-light;
+  }
+  &.twitter-button {
+    @include social-media-button($color-twitter);
+    color: $xpro-blue-light-light;
+    background-color: transparent;
+    border:1px solid $xpro-blue-light-light;
+  }
+  &.google-plus-button {
+    @include social-media-button($color-google-plus);
+    color: $xpro-blue-light-light;
+    background-color: transparent;
+    border:1px solid $xpro-blue-light-light;
+  }
+  &.pinterest-button {
+    @include social-media-button($color-pinterest);
+    color: $xpro-blue-light-light;
+    background-color: transparent;
+    border:1px solid $xpro-blue-light-light;
+  }
+  &.linkedin-button {
+    @include social-media-button($color-linkedin);
+    color: $xpro-blue-light-light;
+    background-color: transparent;
+    border:1px solid $xpro-blue-light-light;
+  }
+}

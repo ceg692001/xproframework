@@ -1,0 +1,6462 @@
+@font-face {
+  font-family: 'gax-icon';
+  src: url("../fonts/gax-icon.eot?qkiip4");
+  src: url("../fonts/gax-icon.eot?qkiip4#iefix") format("embedded-opentype"), url("../fonts/gax-icon.ttf?qkiip4") format("truetype"), url("../fonts/gax-icon.woff?qkiip4") format("woff"), url("../fonts/gax-icon.svg?qkiip4#gax-icon") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+/* line 12, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-icon {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'gax-icon' !important;
+  font-size: 1.2em;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+/* line 28, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-home:before {
+  content: "\e900"; }
+
+/* line 31, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-home2:before {
+  content: "\e901"; }
+
+/* line 34, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-home3:before {
+  content: "\e902"; }
+
+/* line 37, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-home4:before {
+  content: "\e903"; }
+
+/* line 40, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-home5:before {
+  content: "\e904"; }
+
+/* line 43, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-home6:before {
+  content: "\e905"; }
+
+/* line 46, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-home7:before {
+  content: "\e906"; }
+
+/* line 49, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-home8:before {
+  content: "\e907"; }
+
+/* line 52, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-home9:before {
+  content: "\e908"; }
+
+/* line 55, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-office:before {
+  content: "\e909"; }
+
+/* line 58, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-city:before {
+  content: "\e90a"; }
+
+/* line 61, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-newspaper:before {
+  content: "\e90b"; }
+
+/* line 64, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-magazine:before {
+  content: "\e90c"; }
+
+/* line 67, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-design:before {
+  content: "\e90d"; }
+
+/* line 70, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pencil:before {
+  content: "\e90e"; }
+
+/* line 73, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pencil2:before {
+  content: "\e90f"; }
+
+/* line 76, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pencil3:before {
+  content: "\e910"; }
+
+/* line 79, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pencil4:before {
+  content: "\e911"; }
+
+/* line 82, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pencil5:before {
+  content: "\e912"; }
+
+/* line 85, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pencil6:before {
+  content: "\e913"; }
+
+/* line 88, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pencil7:before {
+  content: "\e914"; }
+
+/* line 91, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-eraser:before {
+  content: "\e915"; }
+
+/* line 94, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-eraser2:before {
+  content: "\e916"; }
+
+/* line 97, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-eraser3:before {
+  content: "\e917"; }
+
+/* line 100, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-quill:before {
+  content: "\e918"; }
+
+/* line 103, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-quill2:before {
+  content: "\e919"; }
+
+/* line 106, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-quill3:before {
+  content: "\e91a"; }
+
+/* line 109, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-quill4:before {
+  content: "\e91b"; }
+
+/* line 112, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pen:before {
+  content: "\e91c"; }
+
+/* line 115, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pen-plus:before {
+  content: "\e91d"; }
+
+/* line 118, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pen-minus:before {
+  content: "\e91e"; }
+
+/* line 121, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pen2:before {
+  content: "\e91f"; }
+
+/* line 124, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pen3:before {
+  content: "\e920"; }
+
+/* line 127, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pen4:before {
+  content: "\e921"; }
+
+/* line 130, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pen5:before {
+  content: "\e922"; }
+
+/* line 133, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-marker:before {
+  content: "\e923"; }
+
+/* line 136, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-marker2:before {
+  content: "\e924"; }
+
+/* line 139, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-blog:before {
+  content: "\e925"; }
+
+/* line 142, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-blog2:before {
+  content: "\e926"; }
+
+/* line 145, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pen6:before {
+  content: "\e927"; }
+
+/* line 148, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-brush:before {
+  content: "\e928"; }
+
+/* line 151, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-spray:before {
+  content: "\e929"; }
+
+/* line 154, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-palette:before {
+  content: "\e92a"; }
+
+/* line 157, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-palette2:before {
+  content: "\e92b"; }
+
+/* line 160, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-color-sampler:before {
+  content: "\e92c"; }
+
+/* line 163, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-toggle:before {
+  content: "\e92d"; }
+
+/* line 166, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bucket:before {
+  content: "\e92e"; }
+
+/* line 169, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bucket2:before {
+  content: "\e92f"; }
+
+/* line 172, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-gradient:before {
+  content: "\e930"; }
+
+/* line 175, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-eyedropper:before {
+  content: "\e931"; }
+
+/* line 178, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-eyedropper2:before {
+  content: "\e932"; }
+
+/* line 181, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-eyedropper3:before {
+  content: "\e933"; }
+
+/* line 184, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-droplet:before {
+  content: "\e934"; }
+
+/* line 187, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-droplet2:before {
+  content: "\e935"; }
+
+/* line 190, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-droplet-contrast:before {
+  content: "\e936"; }
+
+/* line 193, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-color-clear:before {
+  content: "\e937"; }
+
+/* line 196, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-paint-format:before {
+  content: "\e938"; }
+
+/* line 199, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stamp:before {
+  content: "\e939"; }
+
+/* line 202, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-images:before {
+  content: "\e93a"; }
+
+/* line 205, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-image:before {
+  content: "\e93b"; }
+
+/* line 208, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-image2:before {
+  content: "\e93c"; }
+
+/* line 211, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-image-compare:before {
+  content: "\e93d"; }
+
+/* line 214, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-images2:before {
+  content: "\e93e"; }
+
+/* line 217, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-image3:before {
+  content: "\e93f"; }
+
+/* line 220, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-images3:before {
+  content: "\e940"; }
+
+/* line 223, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-image4:before {
+  content: "\e941"; }
+
+/* line 226, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-image5:before {
+  content: "\e942"; }
+
+/* line 229, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-image6:before {
+  content: "\e943"; }
+
+/* line 232, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-camera:before {
+  content: "\e944"; }
+
+/* line 235, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-camera2:before {
+  content: "\e945"; }
+
+/* line 238, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-camera3:before {
+  content: "\e946"; }
+
+/* line 241, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-shutter:before {
+  content: "\e947"; }
+
+/* line 244, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-headphones:before {
+  content: "\e948"; }
+
+/* line 247, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-headset:before {
+  content: "\e949"; }
+
+/* line 250, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-music:before {
+  content: "\e94a"; }
+
+/* line 253, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-music2:before {
+  content: "\e94b"; }
+
+/* line 256, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-music3:before {
+  content: "\e94c"; }
+
+/* line 259, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-music4:before {
+  content: "\e94d"; }
+
+/* line 262, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-music5:before {
+  content: "\e94e"; }
+
+/* line 265, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-music6:before {
+  content: "\e94f"; }
+
+/* line 268, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-album:before {
+  content: "\e950"; }
+
+/* line 271, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cassette:before {
+  content: "\e951"; }
+
+/* line 274, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-tape:before {
+  content: "\e952"; }
+
+/* line 277, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-piano:before {
+  content: "\e953"; }
+
+/* line 280, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-guitar:before {
+  content: "\e954"; }
+
+/* line 283, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-trumpet:before {
+  content: "\e955"; }
+
+/* line 286, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-speakers:before {
+  content: "\e956"; }
+
+/* line 289, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-play:before {
+  content: "\e957"; }
+
+/* line 292, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-play2:before {
+  content: "\e958"; }
+
+/* line 295, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-clapboard-play:before {
+  content: "\e959"; }
+
+/* line 298, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-clapboard:before {
+  content: "\e95a"; }
+
+/* line 301, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-media:before {
+  content: "\e95b"; }
+
+/* line 304, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-presentation:before {
+  content: "\e95c"; }
+
+/* line 307, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-movie:before {
+  content: "\e95d"; }
+
+/* line 310, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-film:before {
+  content: "\e95e"; }
+
+/* line 313, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-film2:before {
+  content: "\e95f"; }
+
+/* line 316, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-film3:before {
+  content: "\e960"; }
+
+/* line 319, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-film4:before {
+  content: "\e961"; }
+
+/* line 322, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-video-camera:before {
+  content: "\e962"; }
+
+/* line 325, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-video-camera2:before {
+  content: "\e963"; }
+
+/* line 328, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-video-camera-slash:before {
+  content: "\e964"; }
+
+/* line 331, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-video-camera3:before {
+  content: "\e965"; }
+
+/* line 334, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-video-camera4:before {
+  content: "\e966"; }
+
+/* line 337, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-video-camera-slash2:before {
+  content: "\e967"; }
+
+/* line 340, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-video-camera5:before {
+  content: "\e968"; }
+
+/* line 343, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-recording:before {
+  content: "\e969"; }
+
+/* line 346, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-dice:before {
+  content: "\e96a"; }
+
+/* line 349, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-gamepad:before {
+  content: "\e96b"; }
+
+/* line 352, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-gamepad2:before {
+  content: "\e96c"; }
+
+/* line 355, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-gamepad3:before {
+  content: "\e96d"; }
+
+/* line 358, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pacman:before {
+  content: "\e96e"; }
+
+/* line 361, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-spades:before {
+  content: "\e96f"; }
+
+/* line 364, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-clubs:before {
+  content: "\e970"; }
+
+/* line 367, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-diamonds:before {
+  content: "\e971"; }
+
+/* line 370, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-chess-king:before {
+  content: "\e972"; }
+
+/* line 373, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-chess-queen:before {
+  content: "\e973"; }
+
+/* line 376, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-chess-rook:before {
+  content: "\e974"; }
+
+/* line 379, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-chess-bishop:before {
+  content: "\e975"; }
+
+/* line 382, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-chess-knight:before {
+  content: "\e976"; }
+
+/* line 385, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-chess-pawn:before {
+  content: "\e977"; }
+
+/* line 388, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-chess:before {
+  content: "\e978"; }
+
+/* line 391, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bullhorn:before {
+  content: "\e979"; }
+
+/* line 394, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-megaphone:before {
+  content: "\e97a"; }
+
+/* line 397, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-new:before {
+  content: "\e97b"; }
+
+/* line 400, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-connection:before {
+  content: "\e97c"; }
+
+/* line 403, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-connection2:before {
+  content: "\e97d"; }
+
+/* line 406, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-connection3:before {
+  content: "\e97e"; }
+
+/* line 409, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-connection4:before {
+  content: "\e97f"; }
+
+/* line 412, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-podcast:before {
+  content: "\e980"; }
+
+/* line 415, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-station:before {
+  content: "\e981"; }
+
+/* line 418, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-station2:before {
+  content: "\e982"; }
+
+/* line 421, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-antenna:before {
+  content: "\e983"; }
+
+/* line 424, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-satellite-dish:before {
+  content: "\e984"; }
+
+/* line 427, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-satellite-dish2:before {
+  content: "\e985"; }
+
+/* line 430, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-feed:before {
+  content: "\e986"; }
+
+/* line 433, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-podcast2:before {
+  content: "\e987"; }
+
+/* line 436, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-antenna2:before {
+  content: "\e988"; }
+
+/* line 439, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-mic:before {
+  content: "\e989"; }
+
+/* line 442, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-mic-off:before {
+  content: "\e98a"; }
+
+/* line 445, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-mic2:before {
+  content: "\e98b"; }
+
+/* line 448, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-mic-off2:before {
+  content: "\e98c"; }
+
+/* line 451, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-mic3:before {
+  content: "\e98d"; }
+
+/* line 454, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-mic4:before {
+  content: "\e98e"; }
+
+/* line 457, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-mic5:before {
+  content: "\e98f"; }
+
+/* line 460, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-book:before {
+  content: "\e990"; }
+
+/* line 463, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-book2:before {
+  content: "\e991"; }
+
+/* line 466, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-book-play:before {
+  content: "\e992"; }
+
+/* line 469, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-book3:before {
+  content: "\e993"; }
+
+/* line 472, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bookmark:before {
+  content: "\e994"; }
+
+/* line 475, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-books:before {
+  content: "\e995"; }
+
+/* line 478, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-archive:before {
+  content: "\e996"; }
+
+/* line 481, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-reading:before {
+  content: "\e997"; }
+
+/* line 484, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-library:before {
+  content: "\e998"; }
+
+/* line 487, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-library2:before {
+  content: "\e999"; }
+
+/* line 490, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-graduation:before {
+  content: "\e99a"; }
+
+/* line 493, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-text:before {
+  content: "\e99b"; }
+
+/* line 496, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-profile:before {
+  content: "\e99c"; }
+
+/* line 499, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-empty:before {
+  content: "\e99d"; }
+
+/* line 502, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-empty2:before {
+  content: "\e99e"; }
+
+/* line 505, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-files-empty:before {
+  content: "\e99f"; }
+
+/* line 508, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-files-empty2:before {
+  content: "\e9a0"; }
+
+/* line 511, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-plus:before {
+  content: "\e9a1"; }
+
+/* line 514, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-plus2:before {
+  content: "\e9a2"; }
+
+/* line 517, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-minus:before {
+  content: "\e9a3"; }
+
+/* line 520, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-minus2:before {
+  content: "\e9a4"; }
+
+/* line 523, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-download:before {
+  content: "\e9a5"; }
+
+/* line 526, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-download2:before {
+  content: "\e9a6"; }
+
+/* line 529, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-upload:before {
+  content: "\e9a7"; }
+
+/* line 532, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-upload2:before {
+  content: "\e9a8"; }
+
+/* line 535, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-check:before {
+  content: "\e9a9"; }
+
+/* line 538, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-check2:before {
+  content: "\e9aa"; }
+
+/* line 541, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-eye:before {
+  content: "\e9ab"; }
+
+/* line 544, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-eye2:before {
+  content: "\e9ac"; }
+
+/* line 547, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-text2:before {
+  content: "\e9ad"; }
+
+/* line 550, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-text3:before {
+  content: "\e9ae"; }
+
+/* line 553, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-picture:before {
+  content: "\e9af"; }
+
+/* line 556, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-picture2:before {
+  content: "\e9b0"; }
+
+/* line 559, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-music:before {
+  content: "\e9b1"; }
+
+/* line 562, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-music2:before {
+  content: "\e9b2"; }
+
+/* line 565, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-play:before {
+  content: "\e9b3"; }
+
+/* line 568, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-play2:before {
+  content: "\e9b4"; }
+
+/* line 571, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-video:before {
+  content: "\e9b5"; }
+
+/* line 574, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-video2:before {
+  content: "\e9b6"; }
+
+/* line 577, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-copy:before {
+  content: "\e9b7"; }
+
+/* line 580, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-copy2:before {
+  content: "\e9b8"; }
+
+/* line 583, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-zip:before {
+  content: "\e9b9"; }
+
+/* line 586, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-zip2:before {
+  content: "\e9ba"; }
+
+/* line 589, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-xml:before {
+  content: "\e9bb"; }
+
+/* line 592, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-xml2:before {
+  content: "\e9bc"; }
+
+/* line 595, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-css:before {
+  content: "\e9bd"; }
+
+/* line 598, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-css2:before {
+  content: "\e9be"; }
+
+/* line 601, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-presentation:before {
+  content: "\e9bf"; }
+
+/* line 604, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-presentation2:before {
+  content: "\e9c0"; }
+
+/* line 607, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-stats:before {
+  content: "\e9c1"; }
+
+/* line 610, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-stats2:before {
+  content: "\e9c2"; }
+
+/* line 613, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-locked:before {
+  content: "\e9c3"; }
+
+/* line 616, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-locked2:before {
+  content: "\e9c4"; }
+
+/* line 619, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-spreadsheet:before {
+  content: "\e9c5"; }
+
+/* line 622, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-spreadsheet2:before {
+  content: "\e9c6"; }
+
+/* line 625, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-copy3:before {
+  content: "\e9c7"; }
+
+/* line 628, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-copy4:before {
+  content: "\e9c8"; }
+
+/* line 631, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-paste:before {
+  content: "\e9c9"; }
+
+/* line 634, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-paste2:before {
+  content: "\e9ca"; }
+
+/* line 637, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-paste3:before {
+  content: "\e9cb"; }
+
+/* line 640, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-paste4:before {
+  content: "\e9cc"; }
+
+/* line 643, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stack:before {
+  content: "\e9cd"; }
+
+/* line 646, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stack2:before {
+  content: "\e9ce"; }
+
+/* line 649, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stack3:before {
+  content: "\e9cf"; }
+
+/* line 652, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-folder:before {
+  content: "\e9d0"; }
+
+/* line 655, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-folder-search:before {
+  content: "\e9d1"; }
+
+/* line 658, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-folder-download:before {
+  content: "\e9d2"; }
+
+/* line 661, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-folder-upload:before {
+  content: "\e9d3"; }
+
+/* line 664, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-folder-plus:before {
+  content: "\e9d4"; }
+
+/* line 667, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-folder-plus2:before {
+  content: "\e9d5"; }
+
+/* line 670, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-folder-minus:before {
+  content: "\e9d6"; }
+
+/* line 673, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-folder-minus2:before {
+  content: "\e9d7"; }
+
+/* line 676, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-folder-check:before {
+  content: "\e9d8"; }
+
+/* line 679, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-folder-heart:before {
+  content: "\e9d9"; }
+
+/* line 682, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-folder-remove:before {
+  content: "\e9da"; }
+
+/* line 685, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-folder2:before {
+  content: "\e9db"; }
+
+/* line 688, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-folder-open:before {
+  content: "\e9dc"; }
+
+/* line 691, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-folder3:before {
+  content: "\e9dd"; }
+
+/* line 694, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-folder4:before {
+  content: "\e9de"; }
+
+/* line 697, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-folder-plus3:before {
+  content: "\e9df"; }
+
+/* line 700, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-folder-minus3:before {
+  content: "\e9e0"; }
+
+/* line 703, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-folder-plus4:before {
+  content: "\e9e1"; }
+
+/* line 706, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-folder-minus4:before {
+  content: "\e9e2"; }
+
+/* line 709, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-folder-download2:before {
+  content: "\e9e3"; }
+
+/* line 712, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-folder-upload2:before {
+  content: "\e9e4"; }
+
+/* line 715, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-folder-download3:before {
+  content: "\e9e5"; }
+
+/* line 718, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-folder-upload3:before {
+  content: "\e9e6"; }
+
+/* line 721, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-folder5:before {
+  content: "\e9e7"; }
+
+/* line 724, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-folder-open2:before {
+  content: "\e9e8"; }
+
+/* line 727, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-folder6:before {
+  content: "\e9e9"; }
+
+/* line 730, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-folder-open3:before {
+  content: "\e9ea"; }
+
+/* line 733, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-certificate:before {
+  content: "\e9eb"; }
+
+/* line 736, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cc:before {
+  content: "\e9ec"; }
+
+/* line 739, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-price-tag:before {
+  content: "\e9ed"; }
+
+/* line 742, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-price-tag2:before {
+  content: "\e9ee"; }
+
+/* line 745, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-price-tags:before {
+  content: "\e9ef"; }
+
+/* line 748, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-price-tag3:before {
+  content: "\e9f0"; }
+
+/* line 751, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-price-tags2:before {
+  content: "\e9f1"; }
+
+/* line 754, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-price-tag4:before {
+  content: "\e9f2"; }
+
+/* line 757, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-price-tags3:before {
+  content: "\e9f3"; }
+
+/* line 760, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-price-tag5:before {
+  content: "\e9f4"; }
+
+/* line 763, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-price-tags4:before {
+  content: "\e9f5"; }
+
+/* line 766, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-barcode:before {
+  content: "\e9f6"; }
+
+/* line 769, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-barcode2:before {
+  content: "\e9f7"; }
+
+/* line 772, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-qrcode:before {
+  content: "\e9f8"; }
+
+/* line 775, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-ticket:before {
+  content: "\e9f9"; }
+
+/* line 778, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-ticket2:before {
+  content: "\e9fa"; }
+
+/* line 781, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-theater:before {
+  content: "\e9fb"; }
+
+/* line 784, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-store:before {
+  content: "\e9fc"; }
+
+/* line 787, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-store2:before {
+  content: "\e9fd"; }
+
+/* line 790, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cart:before {
+  content: "\e9fe"; }
+
+/* line 793, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cart2:before {
+  content: "\e9ff"; }
+
+/* line 796, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cart3:before {
+  content: "\ea00"; }
+
+/* line 799, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cart4:before {
+  content: "\ea01"; }
+
+/* line 802, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cart5:before {
+  content: "\ea02"; }
+
+/* line 805, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cart-add:before {
+  content: "\ea03"; }
+
+/* line 808, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cart-add2:before {
+  content: "\ea04"; }
+
+/* line 811, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cart-remove:before {
+  content: "\ea05"; }
+
+/* line 814, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-basket:before {
+  content: "\ea06"; }
+
+/* line 817, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bag:before {
+  content: "\ea07"; }
+
+/* line 820, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bag2:before {
+  content: "\ea08"; }
+
+/* line 823, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-percent:before {
+  content: "\ea09"; }
+
+/* line 826, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-coins:before {
+  content: "\ea0a"; }
+
+/* line 829, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-coin-dollar:before {
+  content: "\ea0b"; }
+
+/* line 832, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-coin-euro:before {
+  content: "\ea0c"; }
+
+/* line 835, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-coin-pound:before {
+  content: "\ea0d"; }
+
+/* line 838, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-coin-yen:before {
+  content: "\ea0e"; }
+
+/* line 841, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-piggy-bank:before {
+  content: "\ea0f"; }
+
+/* line 844, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-wallet:before {
+  content: "\ea10"; }
+
+/* line 847, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cash:before {
+  content: "\ea11"; }
+
+/* line 850, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cash2:before {
+  content: "\ea12"; }
+
+/* line 853, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cash3:before {
+  content: "\ea13"; }
+
+/* line 856, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cash4:before {
+  content: "\ea14"; }
+
+/* line 859, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-credit-card:before {
+  content: "\ea15"; }
+
+/* line 862, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-credit-card2:before {
+  content: "\ea16"; }
+
+/* line 865, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-calculator:before {
+  content: "\ea17"; }
+
+/* line 868, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-calculator2:before {
+  content: "\ea18"; }
+
+/* line 871, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-calculator3:before {
+  content: "\ea19"; }
+
+/* line 874, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-chip:before {
+  content: "\ea1a"; }
+
+/* line 877, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-lifebuoy:before {
+  content: "\ea1b"; }
+
+/* line 880, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-phone:before {
+  content: "\ea1c"; }
+
+/* line 883, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-phone2:before {
+  content: "\ea1d"; }
+
+/* line 886, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-phone-slash:before {
+  content: "\ea1e"; }
+
+/* line 889, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-phone-wave:before {
+  content: "\ea1f"; }
+
+/* line 892, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-phone-plus:before {
+  content: "\ea20"; }
+
+/* line 895, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-phone-minus:before {
+  content: "\ea21"; }
+
+/* line 898, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-phone-plus2:before {
+  content: "\ea22"; }
+
+/* line 901, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-phone-minus2:before {
+  content: "\ea23"; }
+
+/* line 904, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-phone-incoming:before {
+  content: "\ea24"; }
+
+/* line 907, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-phone-outgoing:before {
+  content: "\ea25"; }
+
+/* line 910, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-phone3:before {
+  content: "\ea26"; }
+
+/* line 913, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-phone-slash2:before {
+  content: "\ea27"; }
+
+/* line 916, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-phone-wave2:before {
+  content: "\ea28"; }
+
+/* line 919, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-phone-hang-up:before {
+  content: "\ea29"; }
+
+/* line 922, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-phone-hang-up2:before {
+  content: "\ea2a"; }
+
+/* line 925, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-address-book:before {
+  content: "\ea2b"; }
+
+/* line 928, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-address-book2:before {
+  content: "\ea2c"; }
+
+/* line 931, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-address-book3:before {
+  content: "\ea2d"; }
+
+/* line 934, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-notebook:before {
+  content: "\ea2e"; }
+
+/* line 937, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-at-sign:before {
+  content: "\ea2f"; }
+
+/* line 940, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-envelop:before {
+  content: "\ea30"; }
+
+/* line 943, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-envelop2:before {
+  content: "\ea31"; }
+
+/* line 946, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-envelop3:before {
+  content: "\ea32"; }
+
+/* line 949, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-envelop4:before {
+  content: "\ea33"; }
+
+/* line 952, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-envelop5:before {
+  content: "\ea34"; }
+
+/* line 955, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-mailbox:before {
+  content: "\ea35"; }
+
+/* line 958, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pushpin:before {
+  content: "\ea36"; }
+
+/* line 961, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pushpin2:before {
+  content: "\ea37"; }
+
+/* line 964, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-location:before {
+  content: "\ea38"; }
+
+/* line 967, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-location2:before {
+  content: "\ea39"; }
+
+/* line 970, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-location3:before {
+  content: "\ea3a"; }
+
+/* line 973, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-location4:before {
+  content: "\ea3b"; }
+
+/* line 976, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-location5:before {
+  content: "\ea3c"; }
+
+/* line 979, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-location6:before {
+  content: "\ea3d"; }
+
+/* line 982, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-location7:before {
+  content: "\ea3e"; }
+
+/* line 985, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-compass:before {
+  content: "\ea3f"; }
+
+/* line 988, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-compass2:before {
+  content: "\ea40"; }
+
+/* line 991, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-compass3:before {
+  content: "\ea41"; }
+
+/* line 994, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-compass4:before {
+  content: "\ea42"; }
+
+/* line 997, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-compass5:before {
+  content: "\ea43"; }
+
+/* line 1000, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-compass6:before {
+  content: "\ea44"; }
+
+/* line 1003, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-map:before {
+  content: "\ea45"; }
+
+/* line 1006, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-map2:before {
+  content: "\ea46"; }
+
+/* line 1009, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-map3:before {
+  content: "\ea47"; }
+
+/* line 1012, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-map4:before {
+  content: "\ea48"; }
+
+/* line 1015, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-map5:before {
+  content: "\ea49"; }
+
+/* line 1018, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-direction:before {
+  content: "\ea4a"; }
+
+/* line 1021, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-reset:before {
+  content: "\ea4b"; }
+
+/* line 1024, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-history:before {
+  content: "\ea4c"; }
+
+/* line 1027, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-clock:before {
+  content: "\ea4d"; }
+
+/* line 1030, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-clock2:before {
+  content: "\ea4e"; }
+
+/* line 1033, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-clock3:before {
+  content: "\ea4f"; }
+
+/* line 1036, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-clock4:before {
+  content: "\ea50"; }
+
+/* line 1039, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-watch:before {
+  content: "\ea51"; }
+
+/* line 1042, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-watch2:before {
+  content: "\ea52"; }
+
+/* line 1045, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-alarm:before {
+  content: "\ea53"; }
+
+/* line 1048, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-alarm-add:before {
+  content: "\ea54"; }
+
+/* line 1051, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-alarm-check:before {
+  content: "\ea55"; }
+
+/* line 1054, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-alarm-cancel:before {
+  content: "\ea56"; }
+
+/* line 1057, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bell:before {
+  content: "\ea57"; }
+
+/* line 1060, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bell2:before {
+  content: "\ea58"; }
+
+/* line 1063, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bell3:before {
+  content: "\ea59"; }
+
+/* line 1066, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bell-plus:before {
+  content: "\ea5a"; }
+
+/* line 1069, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bell-minus:before {
+  content: "\ea5b"; }
+
+/* line 1072, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bell-check:before {
+  content: "\ea5c"; }
+
+/* line 1075, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bell-cross:before {
+  content: "\ea5d"; }
+
+/* line 1078, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stopwatch:before {
+  content: "\ea5e"; }
+
+/* line 1081, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-calendar:before {
+  content: "\ea5f"; }
+
+/* line 1084, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-calendar2:before {
+  content: "\ea60"; }
+
+/* line 1087, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-calendar3:before {
+  content: "\ea61"; }
+
+/* line 1090, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-calendar4:before {
+  content: "\ea62"; }
+
+/* line 1093, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-calendar5:before {
+  content: "\ea63"; }
+
+/* line 1096, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-calendar-empty:before {
+  content: "\ea64"; }
+
+/* line 1099, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-calendar-day:before {
+  content: "\ea65"; }
+
+/* line 1102, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-calendar-week:before {
+  content: "\ea66"; }
+
+/* line 1105, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-printer:before {
+  content: "\ea67"; }
+
+/* line 1108, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-printer2:before {
+  content: "\ea68"; }
+
+/* line 1111, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-printer3:before {
+  content: "\ea69"; }
+
+/* line 1114, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-printer4:before {
+  content: "\ea6a"; }
+
+/* line 1117, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-shredder:before {
+  content: "\ea6b"; }
+
+/* line 1120, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-mouse:before {
+  content: "\ea6c"; }
+
+/* line 1123, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-mouse2:before {
+  content: "\ea6d"; }
+
+/* line 1126, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-mouse-left:before {
+  content: "\ea6e"; }
+
+/* line 1129, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-mouse-right:before {
+  content: "\ea6f"; }
+
+/* line 1132, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-keyboard:before {
+  content: "\ea70"; }
+
+/* line 1135, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-keyboard2:before {
+  content: "\ea71"; }
+
+/* line 1138, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-typewriter:before {
+  content: "\ea72"; }
+
+/* line 1141, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-display:before {
+  content: "\ea73"; }
+
+/* line 1144, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-display2:before {
+  content: "\ea74"; }
+
+/* line 1147, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-display3:before {
+  content: "\ea75"; }
+
+/* line 1150, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-display4:before {
+  content: "\ea76"; }
+
+/* line 1153, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-laptop:before {
+  content: "\ea77"; }
+
+/* line 1156, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-mobile:before {
+  content: "\ea78"; }
+
+/* line 1159, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-mobile2:before {
+  content: "\ea79"; }
+
+/* line 1162, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-tablet:before {
+  content: "\ea7a"; }
+
+/* line 1165, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-mobile3:before {
+  content: "\ea7b"; }
+
+/* line 1168, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-tv:before {
+  content: "\ea7c"; }
+
+/* line 1171, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-radio:before {
+  content: "\ea7d"; }
+
+/* line 1174, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cabinet:before {
+  content: "\ea7e"; }
+
+/* line 1177, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-drawer:before {
+  content: "\ea7f"; }
+
+/* line 1180, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-drawer2:before {
+  content: "\ea80"; }
+
+/* line 1183, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-drawer-out:before {
+  content: "\ea81"; }
+
+/* line 1186, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-drawer-in:before {
+  content: "\ea82"; }
+
+/* line 1189, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-drawer3:before {
+  content: "\ea83"; }
+
+/* line 1192, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-box:before {
+  content: "\ea84"; }
+
+/* line 1195, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-box-add:before {
+  content: "\ea85"; }
+
+/* line 1198, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-box-remove:before {
+  content: "\ea86"; }
+
+/* line 1201, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-download:before {
+  content: "\ea87"; }
+
+/* line 1204, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-upload:before {
+  content: "\ea88"; }
+
+/* line 1207, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-floppy-disk:before {
+  content: "\ea89"; }
+
+/* line 1210, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-floppy-disks:before {
+  content: "\ea8a"; }
+
+/* line 1213, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-floppy-disks2:before {
+  content: "\ea8b"; }
+
+/* line 1216, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-floppy-disk2:before {
+  content: "\ea8c"; }
+
+/* line 1219, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-floppy-disk3:before {
+  content: "\ea8d"; }
+
+/* line 1222, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-disk:before {
+  content: "\ea8e"; }
+
+/* line 1225, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-disk2:before {
+  content: "\ea8f"; }
+
+/* line 1228, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-usb-stick:before {
+  content: "\ea90"; }
+
+/* line 1231, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-drive:before {
+  content: "\ea91"; }
+
+/* line 1234, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-server:before {
+  content: "\ea92"; }
+
+/* line 1237, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-database:before {
+  content: "\ea93"; }
+
+/* line 1240, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-database2:before {
+  content: "\ea94"; }
+
+/* line 1243, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-database3:before {
+  content: "\ea95"; }
+
+/* line 1246, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-database4:before {
+  content: "\ea96"; }
+
+/* line 1249, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-database-menu:before {
+  content: "\ea97"; }
+
+/* line 1252, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-database-add:before {
+  content: "\ea98"; }
+
+/* line 1255, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-database-remove:before {
+  content: "\ea99"; }
+
+/* line 1258, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-database-insert:before {
+  content: "\ea9a"; }
+
+/* line 1261, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-database-export:before {
+  content: "\ea9b"; }
+
+/* line 1264, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-database-upload:before {
+  content: "\ea9c"; }
+
+/* line 1267, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-database-refresh:before {
+  content: "\ea9d"; }
+
+/* line 1270, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-database-diff:before {
+  content: "\ea9e"; }
+
+/* line 1273, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-database-edit:before {
+  content: "\ea9f"; }
+
+/* line 1276, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-database-edit2:before {
+  content: "\eaa0"; }
+
+/* line 1279, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-database-check:before {
+  content: "\eaa1"; }
+
+/* line 1282, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-database-arrow:before {
+  content: "\eaa2"; }
+
+/* line 1285, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-database-time:before {
+  content: "\eaa3"; }
+
+/* line 1288, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-database-time2:before {
+  content: "\eaa4"; }
+
+/* line 1291, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-undo:before {
+  content: "\eaa5"; }
+
+/* line 1294, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-redo:before {
+  content: "\eaa6"; }
+
+/* line 1297, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-rotate-ccw:before {
+  content: "\eaa7"; }
+
+/* line 1300, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-rotate-cw:before {
+  content: "\eaa8"; }
+
+/* line 1303, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-rotate-ccw2:before {
+  content: "\eaa9"; }
+
+/* line 1306, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-rotate-cw2:before {
+  content: "\eaaa"; }
+
+/* line 1309, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-rotate-ccw3:before {
+  content: "\eaab"; }
+
+/* line 1312, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-rotate-cw3:before {
+  content: "\eaac"; }
+
+/* line 1315, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-flip-vertical:before {
+  content: "\eaad"; }
+
+/* line 1318, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-flip-vertical2:before {
+  content: "\eaae"; }
+
+/* line 1321, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-flip-horizontal:before {
+  content: "\eaaf"; }
+
+/* line 1324, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-flip-horizontal2:before {
+  content: "\eab0"; }
+
+/* line 1327, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-flip-vertical3:before {
+  content: "\eab1"; }
+
+/* line 1330, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-flip-vertical4:before {
+  content: "\eab2"; }
+
+/* line 1333, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-angle:before {
+  content: "\eab3"; }
+
+/* line 1336, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-shear:before {
+  content: "\eab4"; }
+
+/* line 1339, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-unite:before {
+  content: "\eab5"; }
+
+/* line 1342, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-subtract:before {
+  content: "\eab6"; }
+
+/* line 1345, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-interset:before {
+  content: "\eab7"; }
+
+/* line 1348, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-exclude:before {
+  content: "\eab8"; }
+
+/* line 1351, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-align-left:before {
+  content: "\eab9"; }
+
+/* line 1354, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-align-center-horizontal:before {
+  content: "\eaba"; }
+
+/* line 1357, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-align-right:before {
+  content: "\eabb"; }
+
+/* line 1360, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-align-top:before {
+  content: "\eabc"; }
+
+/* line 1363, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-align-center-vertical:before {
+  content: "\eabd"; }
+
+/* line 1366, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-align-bottom:before {
+  content: "\eabe"; }
+
+/* line 1369, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-undo2:before {
+  content: "\eabf"; }
+
+/* line 1372, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-redo2:before {
+  content: "\eac0"; }
+
+/* line 1375, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-forward:before {
+  content: "\eac1"; }
+
+/* line 1378, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-reply:before {
+  content: "\eac2"; }
+
+/* line 1381, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-reply-all:before {
+  content: "\eac3"; }
+
+/* line 1384, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble:before {
+  content: "\eac4"; }
+
+/* line 1387, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubbles:before {
+  content: "\eac5"; }
+
+/* line 1390, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubbles2:before {
+  content: "\eac6"; }
+
+/* line 1393, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble2:before {
+  content: "\eac7"; }
+
+/* line 1396, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubbles3:before {
+  content: "\eac8"; }
+
+/* line 1399, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubbles4:before {
+  content: "\eac9"; }
+
+/* line 1402, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble-notification:before {
+  content: "\eaca"; }
+
+/* line 1405, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubbles5:before {
+  content: "\eacb"; }
+
+/* line 1408, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubbles6:before {
+  content: "\eacc"; }
+
+/* line 1411, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble3:before {
+  content: "\eacd"; }
+
+/* line 1414, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble-dots:before {
+  content: "\eace"; }
+
+/* line 1417, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble-lines:before {
+  content: "\eacf"; }
+
+/* line 1420, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble4:before {
+  content: "\ead0"; }
+
+/* line 1423, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble-dots2:before {
+  content: "\ead1"; }
+
+/* line 1426, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble-lines2:before {
+  content: "\ead2"; }
+
+/* line 1429, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble5:before {
+  content: "\ead3"; }
+
+/* line 1432, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble6:before {
+  content: "\ead4"; }
+
+/* line 1435, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubbles7:before {
+  content: "\ead5"; }
+
+/* line 1438, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble7:before {
+  content: "\ead6"; }
+
+/* line 1441, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubbles8:before {
+  content: "\ead7"; }
+
+/* line 1444, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble8:before {
+  content: "\ead8"; }
+
+/* line 1447, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble-dots3:before {
+  content: "\ead9"; }
+
+/* line 1450, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble-lines3:before {
+  content: "\eada"; }
+
+/* line 1453, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble9:before {
+  content: "\eadb"; }
+
+/* line 1456, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble-dots4:before {
+  content: "\eadc"; }
+
+/* line 1459, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble-lines4:before {
+  content: "\eadd"; }
+
+/* line 1462, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubbles9:before {
+  content: "\eade"; }
+
+/* line 1465, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubbles10:before {
+  content: "\eadf"; }
+
+/* line 1468, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble-blocked:before {
+  content: "\eae0"; }
+
+/* line 1471, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble-quote:before {
+  content: "\eae1"; }
+
+/* line 1474, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble-user:before {
+  content: "\eae2"; }
+
+/* line 1477, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble-smiley:before {
+  content: "\eae3"; }
+
+/* line 1480, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble-check:before {
+  content: "\eae4"; }
+
+/* line 1483, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble-video:before {
+  content: "\eae5"; }
+
+/* line 1486, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble-link:before {
+  content: "\eae6"; }
+
+/* line 1489, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble-lock:before {
+  content: "\eae7"; }
+
+/* line 1492, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble-star:before {
+  content: "\eae8"; }
+
+/* line 1495, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble-heart:before {
+  content: "\eae9"; }
+
+/* line 1498, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble-paperclip:before {
+  content: "\eaea"; }
+
+/* line 1501, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble-cancel:before {
+  content: "\eaeb"; }
+
+/* line 1504, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble-plus:before {
+  content: "\eaec"; }
+
+/* line 1507, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble-minus:before {
+  content: "\eaed"; }
+
+/* line 1510, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble-notification2:before {
+  content: "\eaee"; }
+
+/* line 1513, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble-left:before {
+  content: "\eaef"; }
+
+/* line 1516, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble-right:before {
+  content: "\eaf0"; }
+
+/* line 1519, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble-first:before {
+  content: "\eaf1"; }
+
+/* line 1522, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble-last:before {
+  content: "\eaf2"; }
+
+/* line 1525, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble-reply:before {
+  content: "\eaf3"; }
+
+/* line 1528, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble-forward:before {
+  content: "\eaf4"; }
+
+/* line 1531, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble-reply2:before {
+  content: "\eaf5"; }
+
+/* line 1534, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bubble-forward2:before {
+  content: "\eaf6"; }
+
+/* line 1537, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-user:before {
+  content: "\eaf7"; }
+
+/* line 1540, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-users:before {
+  content: "\eaf8"; }
+
+/* line 1543, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-user-plus:before {
+  content: "\eaf9"; }
+
+/* line 1546, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-user-minus:before {
+  content: "\eafa"; }
+
+/* line 1549, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-user-cancel:before {
+  content: "\eafb"; }
+
+/* line 1552, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-user-block:before {
+  content: "\eafc"; }
+
+/* line 1555, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-user-lock:before {
+  content: "\eafd"; }
+
+/* line 1558, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-user-check:before {
+  content: "\eafe"; }
+
+/* line 1561, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-users2:before {
+  content: "\eaff"; }
+
+/* line 1564, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-user2:before {
+  content: "\eb00"; }
+
+/* line 1567, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-users3:before {
+  content: "\eb01"; }
+
+/* line 1570, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-user-plus2:before {
+  content: "\eb02"; }
+
+/* line 1573, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-user-minus2:before {
+  content: "\eb03"; }
+
+/* line 1576, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-user-cancel2:before {
+  content: "\eb04"; }
+
+/* line 1579, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-user-block2:before {
+  content: "\eb05"; }
+
+/* line 1582, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-user-lock2:before {
+  content: "\eb06"; }
+
+/* line 1585, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-user-check2:before {
+  content: "\eb07"; }
+
+/* line 1588, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-user3:before {
+  content: "\eb08"; }
+
+/* line 1591, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-user4:before {
+  content: "\eb09"; }
+
+/* line 1594, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-user5:before {
+  content: "\eb0a"; }
+
+/* line 1597, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-user6:before {
+  content: "\eb0b"; }
+
+/* line 1600, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-users4:before {
+  content: "\eb0c"; }
+
+/* line 1603, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-user-tie:before {
+  content: "\eb0d"; }
+
+/* line 1606, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-user7:before {
+  content: "\eb0e"; }
+
+/* line 1609, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-users5:before {
+  content: "\eb0f"; }
+
+/* line 1612, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-collaboration:before {
+  content: "\eb10"; }
+
+/* line 1615, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-vcard:before {
+  content: "\eb11"; }
+
+/* line 1618, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-hat:before {
+  content: "\eb12"; }
+
+/* line 1621, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bowtie:before {
+  content: "\eb13"; }
+
+/* line 1624, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-tie:before {
+  content: "\eb14"; }
+
+/* line 1627, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-hanger:before {
+  content: "\eb15"; }
+
+/* line 1630, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-tshirt:before {
+  content: "\eb16"; }
+
+/* line 1633, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pants:before {
+  content: "\eb17"; }
+
+/* line 1636, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-shorts:before {
+  content: "\eb18"; }
+
+/* line 1639, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-sock:before {
+  content: "\eb19"; }
+
+/* line 1642, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-laundry:before {
+  content: "\eb1a"; }
+
+/* line 1645, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-quotes-left:before {
+  content: "\eb1b"; }
+
+/* line 1648, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-quotes-right:before {
+  content: "\eb1c"; }
+
+/* line 1651, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-quotes-left2:before {
+  content: "\eb1d"; }
+
+/* line 1654, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-quotes-right2:before {
+  content: "\eb1e"; }
+
+/* line 1657, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-hour-glass:before {
+  content: "\eb1f"; }
+
+/* line 1660, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-hour-glass2:before {
+  content: "\eb20"; }
+
+/* line 1663, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-hour-glass3:before {
+  content: "\eb21"; }
+
+/* line 1666, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-spinner:before {
+  content: "\eb22"; }
+
+/* line 1669, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-spinner2:before {
+  content: "\eb23"; }
+
+/* line 1672, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-spinner3:before {
+  content: "\eb24"; }
+
+/* line 1675, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-spinner4:before {
+  content: "\eb25"; }
+
+/* line 1678, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-spinner5:before {
+  content: "\eb26"; }
+
+/* line 1681, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-spinner6:before {
+  content: "\eb27"; }
+
+/* line 1684, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-spinner7:before {
+  content: "\eb28"; }
+
+/* line 1687, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-spinner8:before {
+  content: "\eb29"; }
+
+/* line 1690, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-spinner9:before {
+  content: "\eb2a"; }
+
+/* line 1693, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-spinner10:before {
+  content: "\eb2b"; }
+
+/* line 1696, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-spinner11:before {
+  content: "\eb2c"; }
+
+/* line 1699, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-microscope:before {
+  content: "\eb2d"; }
+
+/* line 1702, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-binoculars:before {
+  content: "\eb2e"; }
+
+/* line 1705, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-binoculars2:before {
+  content: "\eb2f"; }
+
+/* line 1708, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-search:before {
+  content: "\eb30"; }
+
+/* line 1711, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-zoom-in:before {
+  content: "\eb31"; }
+
+/* line 1714, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-zoom-out:before {
+  content: "\eb32"; }
+
+/* line 1717, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-search2:before {
+  content: "\eb33"; }
+
+/* line 1720, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-zoom-in2:before {
+  content: "\eb34"; }
+
+/* line 1723, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-zoom-out2:before {
+  content: "\eb35"; }
+
+/* line 1726, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-search3:before {
+  content: "\eb36"; }
+
+/* line 1729, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-search4:before {
+  content: "\eb37"; }
+
+/* line 1732, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-zoom-in3:before {
+  content: "\eb38"; }
+
+/* line 1735, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-zoom-out3:before {
+  content: "\eb39"; }
+
+/* line 1738, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-search5:before {
+  content: "\eb3a"; }
+
+/* line 1741, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-search6:before {
+  content: "\eb3b"; }
+
+/* line 1744, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-enlarge:before {
+  content: "\eb3c"; }
+
+/* line 1747, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-shrink:before {
+  content: "\eb3d"; }
+
+/* line 1750, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-enlarge2:before {
+  content: "\eb3e"; }
+
+/* line 1753, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-shrink2:before {
+  content: "\eb3f"; }
+
+/* line 1756, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-enlarge3:before {
+  content: "\eb40"; }
+
+/* line 1759, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-shrink3:before {
+  content: "\eb41"; }
+
+/* line 1762, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-enlarge4:before {
+  content: "\eb42"; }
+
+/* line 1765, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-shrink4:before {
+  content: "\eb43"; }
+
+/* line 1768, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-enlarge5:before {
+  content: "\eb44"; }
+
+/* line 1771, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-shrink5:before {
+  content: "\eb45"; }
+
+/* line 1774, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-enlarge6:before {
+  content: "\eb46"; }
+
+/* line 1777, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-shrink6:before {
+  content: "\eb47"; }
+
+/* line 1780, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-enlarge7:before {
+  content: "\eb48"; }
+
+/* line 1783, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-shrink7:before {
+  content: "\eb49"; }
+
+/* line 1786, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-key:before {
+  content: "\eb4a"; }
+
+/* line 1789, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-key2:before {
+  content: "\eb4b"; }
+
+/* line 1792, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-key3:before {
+  content: "\eb4c"; }
+
+/* line 1795, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-key4:before {
+  content: "\eb4d"; }
+
+/* line 1798, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-key5:before {
+  content: "\eb4e"; }
+
+/* line 1801, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-keyhole:before {
+  content: "\eb4f"; }
+
+/* line 1804, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-lock:before {
+  content: "\eb50"; }
+
+/* line 1807, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-lock2:before {
+  content: "\eb51"; }
+
+/* line 1810, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-lock3:before {
+  content: "\eb52"; }
+
+/* line 1813, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-lock4:before {
+  content: "\eb53"; }
+
+/* line 1816, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-unlocked:before {
+  content: "\eb54"; }
+
+/* line 1819, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-lock5:before {
+  content: "\eb55"; }
+
+/* line 1822, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-unlocked2:before {
+  content: "\eb56"; }
+
+/* line 1825, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-safe:before {
+  content: "\eb57"; }
+
+/* line 1828, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-wrench:before {
+  content: "\eb58"; }
+
+/* line 1831, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-wrench2:before {
+  content: "\eb59"; }
+
+/* line 1834, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-wrench3:before {
+  content: "\eb5a"; }
+
+/* line 1837, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-equalizer:before {
+  content: "\eb5b"; }
+
+/* line 1840, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-equalizer2:before {
+  content: "\eb5c"; }
+
+/* line 1843, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-equalizer3:before {
+  content: "\eb5d"; }
+
+/* line 1846, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-equalizer4:before {
+  content: "\eb5e"; }
+
+/* line 1849, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cog:before {
+  content: "\eb5f"; }
+
+/* line 1852, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cogs:before {
+  content: "\eb60"; }
+
+/* line 1855, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cog2:before {
+  content: "\eb61"; }
+
+/* line 1858, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cog3:before {
+  content: "\eb62"; }
+
+/* line 1861, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cog4:before {
+  content: "\eb63"; }
+
+/* line 1864, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cog5:before {
+  content: "\eb64"; }
+
+/* line 1867, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cog6:before {
+  content: "\eb65"; }
+
+/* line 1870, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cog7:before {
+  content: "\eb66"; }
+
+/* line 1873, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-factory:before {
+  content: "\eb67"; }
+
+/* line 1876, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-hammer:before {
+  content: "\eb68"; }
+
+/* line 1879, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-hammer-wrench:before {
+  content: "\eb69"; }
+
+/* line 1882, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-knife:before {
+  content: "\eb6a"; }
+
+/* line 1885, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-screwdriver:before {
+  content: "\eb6b"; }
+
+/* line 1888, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-screwdriver2:before {
+  content: "\eb6c"; }
+
+/* line 1891, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-magic-wand:before {
+  content: "\eb6d"; }
+
+/* line 1894, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-magic-wand2:before {
+  content: "\eb6e"; }
+
+/* line 1897, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pulse:before {
+  content: "\eb6f"; }
+
+/* line 1900, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pulse2:before {
+  content: "\eb70"; }
+
+/* line 1903, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-aid-kit:before {
+  content: "\eb71"; }
+
+/* line 1906, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-aid-kit2:before {
+  content: "\eb72"; }
+
+/* line 1909, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stethoscope:before {
+  content: "\eb73"; }
+
+/* line 1912, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-ambulance:before {
+  content: "\eb74"; }
+
+/* line 1915, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-alarm2:before {
+  content: "\eb75"; }
+
+/* line 1918, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pandage:before {
+  content: "\eb76"; }
+
+/* line 1921, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pandage2:before {
+  content: "\eb77"; }
+
+/* line 1924, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bug:before {
+  content: "\eb78"; }
+
+/* line 1927, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bug2:before {
+  content: "\eb79"; }
+
+/* line 1930, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-syringe:before {
+  content: "\eb7a"; }
+
+/* line 1933, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-syringe2:before {
+  content: "\eb7b"; }
+
+/* line 1936, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pill:before {
+  content: "\eb7c"; }
+
+/* line 1939, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-construction:before {
+  content: "\eb7d"; }
+
+/* line 1942, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-traffic-cone:before {
+  content: "\eb7e"; }
+
+/* line 1945, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-traffic-lights:before {
+  content: "\eb7f"; }
+
+/* line 1948, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pie-chart:before {
+  content: "\eb80"; }
+
+/* line 1951, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pie-chart2:before {
+  content: "\eb81"; }
+
+/* line 1954, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pie-chart3:before {
+  content: "\eb82"; }
+
+/* line 1957, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pie-chart4:before {
+  content: "\eb83"; }
+
+/* line 1960, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pie-chart5:before {
+  content: "\eb84"; }
+
+/* line 1963, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pie-chart6:before {
+  content: "\eb85"; }
+
+/* line 1966, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pie-chart7:before {
+  content: "\eb86"; }
+
+/* line 1969, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stats-dots:before {
+  content: "\eb87"; }
+
+/* line 1972, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stats-bars:before {
+  content: "\eb88"; }
+
+/* line 1975, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pie-chart8:before {
+  content: "\eb89"; }
+
+/* line 1978, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stats-bars2:before {
+  content: "\eb8a"; }
+
+/* line 1981, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stats-bars3:before {
+  content: "\eb8b"; }
+
+/* line 1984, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stats-bars4:before {
+  content: "\eb8c"; }
+
+/* line 1987, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stats-bars5:before {
+  content: "\eb8d"; }
+
+/* line 1990, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stats-bars6:before {
+  content: "\eb8e"; }
+
+/* line 1993, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-chart:before {
+  content: "\eb8f"; }
+
+/* line 1996, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stats-growth:before {
+  content: "\eb90"; }
+
+/* line 1999, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stats-decline:before {
+  content: "\eb91"; }
+
+/* line 2002, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stats-growth2:before {
+  content: "\eb92"; }
+
+/* line 2005, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stats-decline2:before {
+  content: "\eb93"; }
+
+/* line 2008, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stairs-up:before {
+  content: "\eb94"; }
+
+/* line 2011, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stairs-down:before {
+  content: "\eb95"; }
+
+/* line 2014, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stairs:before {
+  content: "\eb96"; }
+
+/* line 2017, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stairs2:before {
+  content: "\eb97"; }
+
+/* line 2020, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-ladder:before {
+  content: "\eb98"; }
+
+/* line 2023, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-rating:before {
+  content: "\eb99"; }
+
+/* line 2026, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-rating2:before {
+  content: "\eb9a"; }
+
+/* line 2029, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-rating3:before {
+  content: "\eb9b"; }
+
+/* line 2032, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cake:before {
+  content: "\eb9c"; }
+
+/* line 2035, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-podium:before {
+  content: "\eb9d"; }
+
+/* line 2038, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stars:before {
+  content: "\eb9e"; }
+
+/* line 2041, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-medal-star:before {
+  content: "\eb9f"; }
+
+/* line 2044, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-medal:before {
+  content: "\eba0"; }
+
+/* line 2047, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-medal2:before {
+  content: "\eba1"; }
+
+/* line 2050, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-medal-first:before {
+  content: "\eba2"; }
+
+/* line 2053, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-medal-second:before {
+  content: "\eba3"; }
+
+/* line 2056, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-medal-third:before {
+  content: "\eba4"; }
+
+/* line 2059, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-crown:before {
+  content: "\eba5"; }
+
+/* line 2062, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-trophy:before {
+  content: "\eba6"; }
+
+/* line 2065, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-trophy2:before {
+  content: "\eba7"; }
+
+/* line 2068, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-trophy3:before {
+  content: "\eba8"; }
+
+/* line 2071, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-diamond:before {
+  content: "\eba9"; }
+
+/* line 2074, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-diamond2:before {
+  content: "\ebaa"; }
+
+/* line 2077, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-trophy4:before {
+  content: "\ebab"; }
+
+/* line 2080, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-gift:before {
+  content: "\ebac"; }
+
+/* line 2083, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-gift2:before {
+  content: "\ebad"; }
+
+/* line 2086, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-balloon:before {
+  content: "\ebae"; }
+
+/* line 2089, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pipe:before {
+  content: "\ebaf"; }
+
+/* line 2092, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-mustache:before {
+  content: "\ebb0"; }
+
+/* line 2095, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-mustache2:before {
+  content: "\ebb1"; }
+
+/* line 2098, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-glass:before {
+  content: "\ebb2"; }
+
+/* line 2101, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-glass2:before {
+  content: "\ebb3"; }
+
+/* line 2104, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-glass3:before {
+  content: "\ebb4"; }
+
+/* line 2107, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-glass4:before {
+  content: "\ebb5"; }
+
+/* line 2110, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bottle:before {
+  content: "\ebb6"; }
+
+/* line 2113, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bottle2:before {
+  content: "\ebb7"; }
+
+/* line 2116, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bottle3:before {
+  content: "\ebb8"; }
+
+/* line 2119, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bottle4:before {
+  content: "\ebb9"; }
+
+/* line 2122, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-mug:before {
+  content: "\ebba"; }
+
+/* line 2125, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-fork-knife:before {
+  content: "\ebbb"; }
+
+/* line 2128, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-spoon-knife:before {
+  content: "\ebbc"; }
+
+/* line 2131, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cook:before {
+  content: "\ebbd"; }
+
+/* line 2134, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-plate:before {
+  content: "\ebbe"; }
+
+/* line 2137, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-steak:before {
+  content: "\ebbf"; }
+
+/* line 2140, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-fish:before {
+  content: "\ebc0"; }
+
+/* line 2143, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-chicken:before {
+  content: "\ebc1"; }
+
+/* line 2146, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-hamburger:before {
+  content: "\ebc2"; }
+
+/* line 2149, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pizza:before {
+  content: "\ebc3"; }
+
+/* line 2152, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cheese:before {
+  content: "\ebc4"; }
+
+/* line 2155, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bread:before {
+  content: "\ebc5"; }
+
+/* line 2158, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-icecream:before {
+  content: "\ebc6"; }
+
+/* line 2161, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-milk:before {
+  content: "\ebc7"; }
+
+/* line 2164, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cup:before {
+  content: "\ebc8"; }
+
+/* line 2167, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cup2:before {
+  content: "\ebc9"; }
+
+/* line 2170, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-coffee-bean:before {
+  content: "\ebca"; }
+
+/* line 2173, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-coffee:before {
+  content: "\ebcb"; }
+
+/* line 2176, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-teapot:before {
+  content: "\ebcc"; }
+
+/* line 2179, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-leaf:before {
+  content: "\ebcd"; }
+
+/* line 2182, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-leaf2:before {
+  content: "\ebce"; }
+
+/* line 2185, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-apple:before {
+  content: "\ebcf"; }
+
+/* line 2188, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-grapes:before {
+  content: "\ebd0"; }
+
+/* line 2191, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cherry:before {
+  content: "\ebd1"; }
+
+/* line 2194, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-tree:before {
+  content: "\ebd2"; }
+
+/* line 2197, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-tree2:before {
+  content: "\ebd3"; }
+
+/* line 2200, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-tree3:before {
+  content: "\ebd4"; }
+
+/* line 2203, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-tree4:before {
+  content: "\ebd5"; }
+
+/* line 2206, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cactus:before {
+  content: "\ebd6"; }
+
+/* line 2209, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-mountains:before {
+  content: "\ebd7"; }
+
+/* line 2212, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-paw:before {
+  content: "\ebd8"; }
+
+/* line 2215, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-footprint:before {
+  content: "\ebd9"; }
+
+/* line 2218, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-tent:before {
+  content: "\ebda"; }
+
+/* line 2221, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-flower:before {
+  content: "\ebdb"; }
+
+/* line 2224, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-flower2:before {
+  content: "\ebdc"; }
+
+/* line 2227, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-rocket:before {
+  content: "\ebdd"; }
+
+/* line 2230, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-meter:before {
+  content: "\ebde"; }
+
+/* line 2233, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-meter2:before {
+  content: "\ebdf"; }
+
+/* line 2236, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-meter-slow:before {
+  content: "\ebe0"; }
+
+/* line 2239, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-meter-medium:before {
+  content: "\ebe1"; }
+
+/* line 2242, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-meter-fast:before {
+  content: "\ebe2"; }
+
+/* line 2245, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-meter3:before {
+  content: "\ebe3"; }
+
+/* line 2248, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-hammer2:before {
+  content: "\ebe4"; }
+
+/* line 2251, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-balance:before {
+  content: "\ebe5"; }
+
+/* line 2254, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-scale:before {
+  content: "\ebe6"; }
+
+/* line 2257, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bomb:before {
+  content: "\ebe7"; }
+
+/* line 2260, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-fire:before {
+  content: "\ebe8"; }
+
+/* line 2263, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-fire2:before {
+  content: "\ebe9"; }
+
+/* line 2266, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-lab:before {
+  content: "\ebea"; }
+
+/* line 2269, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-atom:before {
+  content: "\ebeb"; }
+
+/* line 2272, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-atom2:before {
+  content: "\ebec"; }
+
+/* line 2275, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-magnet:before {
+  content: "\ebed"; }
+
+/* line 2278, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-magnet2:before {
+  content: "\ebee"; }
+
+/* line 2281, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-dumbbell:before {
+  content: "\ebef"; }
+
+/* line 2284, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-skull:before {
+  content: "\ebf0"; }
+
+/* line 2287, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-skull2:before {
+  content: "\ebf1"; }
+
+/* line 2290, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-lamp:before {
+  content: "\ebf2"; }
+
+/* line 2293, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-lamp2:before {
+  content: "\ebf3"; }
+
+/* line 2296, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-lamp3:before {
+  content: "\ebf4"; }
+
+/* line 2299, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-spotlight:before {
+  content: "\ebf5"; }
+
+/* line 2302, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-lamp4:before {
+  content: "\ebf6"; }
+
+/* line 2305, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-lamp5:before {
+  content: "\ebf7"; }
+
+/* line 2308, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-lamp6:before {
+  content: "\ebf8"; }
+
+/* line 2311, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-lamp7:before {
+  content: "\ebf9"; }
+
+/* line 2314, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-lamp8:before {
+  content: "\ebfa"; }
+
+/* line 2317, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-broom:before {
+  content: "\ebfb"; }
+
+/* line 2320, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-toiletpaper:before {
+  content: "\ebfc"; }
+
+/* line 2323, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bin:before {
+  content: "\ebfd"; }
+
+/* line 2326, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bin2:before {
+  content: "\ebfe"; }
+
+/* line 2329, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bin3:before {
+  content: "\ebff"; }
+
+/* line 2332, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bin4:before {
+  content: "\ec00"; }
+
+/* line 2335, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bin5:before {
+  content: "\ec01"; }
+
+/* line 2338, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-briefcase:before {
+  content: "\ec02"; }
+
+/* line 2341, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-briefcase2:before {
+  content: "\ec03"; }
+
+/* line 2344, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-briefcase3:before {
+  content: "\ec04"; }
+
+/* line 2347, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-airplane:before {
+  content: "\ec05"; }
+
+/* line 2350, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-airplane2:before {
+  content: "\ec06"; }
+
+/* line 2353, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-airplane3:before {
+  content: "\ec07"; }
+
+/* line 2356, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-airplane4:before {
+  content: "\ec08"; }
+
+/* line 2359, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-paperplane:before {
+  content: "\ec09"; }
+
+/* line 2362, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-car:before {
+  content: "\ec0a"; }
+
+/* line 2365, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-steering-wheel:before {
+  content: "\ec0b"; }
+
+/* line 2368, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-car2:before {
+  content: "\ec0c"; }
+
+/* line 2371, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-gas:before {
+  content: "\ec0d"; }
+
+/* line 2374, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bus:before {
+  content: "\ec0e"; }
+
+/* line 2377, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-truck:before {
+  content: "\ec0f"; }
+
+/* line 2380, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bike:before {
+  content: "\ec10"; }
+
+/* line 2383, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-road:before {
+  content: "\ec11"; }
+
+/* line 2386, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-train:before {
+  content: "\ec12"; }
+
+/* line 2389, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-train2:before {
+  content: "\ec13"; }
+
+/* line 2392, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-ship:before {
+  content: "\ec14"; }
+
+/* line 2395, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-boat:before {
+  content: "\ec15"; }
+
+/* line 2398, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-chopper:before {
+  content: "\ec16"; }
+
+/* line 2401, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-chopper2:before {
+  content: "\ec17"; }
+
+/* line 2404, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cube:before {
+  content: "\ec18"; }
+
+/* line 2407, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cube2:before {
+  content: "\ec19"; }
+
+/* line 2410, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cube3:before {
+  content: "\ec1a"; }
+
+/* line 2413, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cube4:before {
+  content: "\ec1b"; }
+
+/* line 2416, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pyramid:before {
+  content: "\ec1c"; }
+
+/* line 2419, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pyramid2:before {
+  content: "\ec1d"; }
+
+/* line 2422, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-package:before {
+  content: "\ec1e"; }
+
+/* line 2425, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-puzzle:before {
+  content: "\ec1f"; }
+
+/* line 2428, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-puzzle2:before {
+  content: "\ec20"; }
+
+/* line 2431, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-puzzle3:before {
+  content: "\ec21"; }
+
+/* line 2434, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-puzzle4:before {
+  content: "\ec22"; }
+
+/* line 2437, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-glasses-3d:before {
+  content: "\ec23"; }
+
+/* line 2440, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-glasses-3d2:before {
+  content: "\ec24"; }
+
+/* line 2443, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-glasses:before {
+  content: "\ec25"; }
+
+/* line 2446, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-glasses2:before {
+  content: "\ec26"; }
+
+/* line 2449, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-brain:before {
+  content: "\ec27"; }
+
+/* line 2452, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-accessibility:before {
+  content: "\ec28"; }
+
+/* line 2455, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-accessibility2:before {
+  content: "\ec29"; }
+
+/* line 2458, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-strategy:before {
+  content: "\ec2a"; }
+
+/* line 2461, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-target:before {
+  content: "\ec2b"; }
+
+/* line 2464, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-target2:before {
+  content: "\ec2c"; }
+
+/* line 2467, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-target3:before {
+  content: "\ec2d"; }
+
+/* line 2470, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-ammo:before {
+  content: "\ec2e"; }
+
+/* line 2473, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-gun:before {
+  content: "\ec2f"; }
+
+/* line 2476, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-gun-forbidden:before {
+  content: "\ec30"; }
+
+/* line 2479, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-shield:before {
+  content: "\ec31"; }
+
+/* line 2482, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-shield-check:before {
+  content: "\ec32"; }
+
+/* line 2485, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-shield-notice:before {
+  content: "\ec33"; }
+
+/* line 2488, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-shield2:before {
+  content: "\ec34"; }
+
+/* line 2491, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-shield3:before {
+  content: "\ec35"; }
+
+/* line 2494, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-shield4:before {
+  content: "\ec36"; }
+
+/* line 2497, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-soccer:before {
+  content: "\ec37"; }
+
+/* line 2500, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-football:before {
+  content: "\ec38"; }
+
+/* line 2503, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-archery:before {
+  content: "\ec39"; }
+
+/* line 2506, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bow:before {
+  content: "\ec3a"; }
+
+/* line 2509, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-sword:before {
+  content: "\ec3b"; }
+
+/* line 2512, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-tennis:before {
+  content: "\ec3c"; }
+
+/* line 2515, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pingpong:before {
+  content: "\ec3d"; }
+
+/* line 2518, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-baseball:before {
+  content: "\ec3e"; }
+
+/* line 2521, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-basketball:before {
+  content: "\ec3f"; }
+
+/* line 2524, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-golf:before {
+  content: "\ec40"; }
+
+/* line 2527, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-golf2:before {
+  content: "\ec41"; }
+
+/* line 2530, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-hockey:before {
+  content: "\ec42"; }
+
+/* line 2533, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-racing:before {
+  content: "\ec43"; }
+
+/* line 2536, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-finish:before {
+  content: "\ec44"; }
+
+/* line 2539, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-eight-ball:before {
+  content: "\ec45"; }
+
+/* line 2542, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bowling:before {
+  content: "\ec46"; }
+
+/* line 2545, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bowling2:before {
+  content: "\ec47"; }
+
+/* line 2548, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-power:before {
+  content: "\ec48"; }
+
+/* line 2551, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-power2:before {
+  content: "\ec49"; }
+
+/* line 2554, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-power3:before {
+  content: "\ec4a"; }
+
+/* line 2557, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-switch:before {
+  content: "\ec4b"; }
+
+/* line 2560, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-switch2:before {
+  content: "\ec4c"; }
+
+/* line 2563, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-power-cord:before {
+  content: "\ec4d"; }
+
+/* line 2566, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-power-cord2:before {
+  content: "\ec4e"; }
+
+/* line 2569, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-outlet:before {
+  content: "\ec4f"; }
+
+/* line 2572, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-clipboard:before {
+  content: "\ec50"; }
+
+/* line 2575, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-clipboard2:before {
+  content: "\ec51"; }
+
+/* line 2578, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-clipboard3:before {
+  content: "\ec52"; }
+
+/* line 2581, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-clipboard4:before {
+  content: "\ec53"; }
+
+/* line 2584, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-clipboard5:before {
+  content: "\ec54"; }
+
+/* line 2587, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-clipboard6:before {
+  content: "\ec55"; }
+
+/* line 2590, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-playlist:before {
+  content: "\ec56"; }
+
+/* line 2593, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-playlist-add:before {
+  content: "\ec57"; }
+
+/* line 2596, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-list-numbered:before {
+  content: "\ec58"; }
+
+/* line 2599, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-list:before {
+  content: "\ec59"; }
+
+/* line 2602, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-list2:before {
+  content: "\ec5a"; }
+
+/* line 2605, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-more:before {
+  content: "\ec5b"; }
+
+/* line 2608, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-more2:before {
+  content: "\ec5c"; }
+
+/* line 2611, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-grid:before {
+  content: "\ec5d"; }
+
+/* line 2614, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-grid2:before {
+  content: "\ec5e"; }
+
+/* line 2617, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-grid3:before {
+  content: "\ec5f"; }
+
+/* line 2620, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-grid4:before {
+  content: "\ec60"; }
+
+/* line 2623, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-grid5:before {
+  content: "\ec61"; }
+
+/* line 2626, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-grid6:before {
+  content: "\ec62"; }
+
+/* line 2629, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-grid7:before {
+  content: "\ec63"; }
+
+/* line 2632, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-tree5:before {
+  content: "\ec64"; }
+
+/* line 2635, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-tree6:before {
+  content: "\ec65"; }
+
+/* line 2638, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-tree7:before {
+  content: "\ec66"; }
+
+/* line 2641, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-lan:before {
+  content: "\ec67"; }
+
+/* line 2644, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-lan2:before {
+  content: "\ec68"; }
+
+/* line 2647, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-lan3:before {
+  content: "\ec69"; }
+
+/* line 2650, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-menu:before {
+  content: "\ec6a"; }
+
+/* line 2653, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-circle-small:before {
+  content: "\ec6b"; }
+
+/* line 2656, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-menu2:before {
+  content: "\ec6c"; }
+
+/* line 2659, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-menu3:before {
+  content: "\ec6d"; }
+
+/* line 2662, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-menu4:before {
+  content: "\ec6e"; }
+
+/* line 2665, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-menu5:before {
+  content: "\ec6f"; }
+
+/* line 2668, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-menu6:before {
+  content: "\ec70"; }
+
+/* line 2671, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-menu7:before {
+  content: "\ec71"; }
+
+/* line 2674, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-menu8:before {
+  content: "\ec72"; }
+
+/* line 2677, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-menu9:before {
+  content: "\ec73"; }
+
+/* line 2680, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-menu10:before {
+  content: "\ec74"; }
+
+/* line 2683, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cloud:before {
+  content: "\ec75"; }
+
+/* line 2686, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cloud-download:before {
+  content: "\ec76"; }
+
+/* line 2689, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cloud-upload:before {
+  content: "\ec77"; }
+
+/* line 2692, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cloud-check:before {
+  content: "\ec78"; }
+
+/* line 2695, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cloud2:before {
+  content: "\ec79"; }
+
+/* line 2698, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cloud-download2:before {
+  content: "\ec7a"; }
+
+/* line 2701, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cloud-upload2:before {
+  content: "\ec7b"; }
+
+/* line 2704, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cloud-check2:before {
+  content: "\ec7c"; }
+
+/* line 2707, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-download2:before {
+  content: "\ec7d"; }
+
+/* line 2710, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-download3:before {
+  content: "\ec7e"; }
+
+/* line 2713, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-upload2:before {
+  content: "\ec7f"; }
+
+/* line 2716, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-upload3:before {
+  content: "\ec80"; }
+
+/* line 2719, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-import:before {
+  content: "\ec81"; }
+
+/* line 2722, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-import2:before {
+  content: "\ec82"; }
+
+/* line 2725, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-download4:before {
+  content: "\ec83"; }
+
+/* line 2728, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-upload4:before {
+  content: "\ec84"; }
+
+/* line 2731, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-download5:before {
+  content: "\ec85"; }
+
+/* line 2734, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-upload5:before {
+  content: "\ec86"; }
+
+/* line 2737, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-download6:before {
+  content: "\ec87"; }
+
+/* line 2740, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-upload6:before {
+  content: "\ec88"; }
+
+/* line 2743, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-download7:before {
+  content: "\ec89"; }
+
+/* line 2746, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-upload7:before {
+  content: "\ec8a"; }
+
+/* line 2749, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-download8:before {
+  content: "\ec8b"; }
+
+/* line 2752, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-upload8:before {
+  content: "\ec8c"; }
+
+/* line 2755, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-download9:before {
+  content: "\ec8d"; }
+
+/* line 2758, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-upload9:before {
+  content: "\ec8e"; }
+
+/* line 2761, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-download10:before {
+  content: "\ec8f"; }
+
+/* line 2764, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-upload10:before {
+  content: "\ec90"; }
+
+/* line 2767, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-sphere:before {
+  content: "\ec91"; }
+
+/* line 2770, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-sphere2:before {
+  content: "\ec92"; }
+
+/* line 2773, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-sphere3:before {
+  content: "\ec93"; }
+
+/* line 2776, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-planet:before {
+  content: "\ec94"; }
+
+/* line 2779, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-planet2:before {
+  content: "\ec95"; }
+
+/* line 2782, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-earth:before {
+  content: "\ec96"; }
+
+/* line 2785, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-earth2:before {
+  content: "\ec97"; }
+
+/* line 2788, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-earth3:before {
+  content: "\ec98"; }
+
+/* line 2791, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-link:before {
+  content: "\ec99"; }
+
+/* line 2794, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-unlink:before {
+  content: "\ec9a"; }
+
+/* line 2797, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-link2:before {
+  content: "\ec9b"; }
+
+/* line 2800, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-unlink2:before {
+  content: "\ec9c"; }
+
+/* line 2803, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-link3:before {
+  content: "\ec9d"; }
+
+/* line 2806, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-unlink3:before {
+  content: "\ec9e"; }
+
+/* line 2809, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-link4:before {
+  content: "\ec9f"; }
+
+/* line 2812, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-unlink4:before {
+  content: "\eca0"; }
+
+/* line 2815, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-link5:before {
+  content: "\eca1"; }
+
+/* line 2818, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-unlink5:before {
+  content: "\eca2"; }
+
+/* line 2821, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-anchor:before {
+  content: "\eca3"; }
+
+/* line 2824, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-flag:before {
+  content: "\eca4"; }
+
+/* line 2827, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-flag2:before {
+  content: "\eca5"; }
+
+/* line 2830, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-flag3:before {
+  content: "\eca6"; }
+
+/* line 2833, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-flag4:before {
+  content: "\eca7"; }
+
+/* line 2836, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-flag5:before {
+  content: "\eca8"; }
+
+/* line 2839, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-flag6:before {
+  content: "\eca9"; }
+
+/* line 2842, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-flag7:before {
+  content: "\ecaa"; }
+
+/* line 2845, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-flag8:before {
+  content: "\ecab"; }
+
+/* line 2848, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-attachment:before {
+  content: "\ecac"; }
+
+/* line 2851, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-attachment2:before {
+  content: "\ecad"; }
+
+/* line 2854, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-eye:before {
+  content: "\ecae"; }
+
+/* line 2857, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-eye-plus:before {
+  content: "\ecaf"; }
+
+/* line 2860, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-eye-minus:before {
+  content: "\ecb0"; }
+
+/* line 2863, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-eye-blocked:before {
+  content: "\ecb1"; }
+
+/* line 2866, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-eye2:before {
+  content: "\ecb2"; }
+
+/* line 2869, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-eye-blocked2:before {
+  content: "\ecb3"; }
+
+/* line 2872, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-eye3:before {
+  content: "\ecb4"; }
+
+/* line 2875, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-eye-blocked3:before {
+  content: "\ecb5"; }
+
+/* line 2878, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-eye4:before {
+  content: "\ecb6"; }
+
+/* line 2881, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bookmark2:before {
+  content: "\ecb7"; }
+
+/* line 2884, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bookmark3:before {
+  content: "\ecb8"; }
+
+/* line 2887, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bookmarks:before {
+  content: "\ecb9"; }
+
+/* line 2890, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bookmark4:before {
+  content: "\ecba"; }
+
+/* line 2893, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-spotlight2:before {
+  content: "\ecbb"; }
+
+/* line 2896, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-starburst:before {
+  content: "\ecbc"; }
+
+/* line 2899, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-snowflake:before {
+  content: "\ecbd"; }
+
+/* line 2902, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-temperature:before {
+  content: "\ecbe"; }
+
+/* line 2905, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-temperature2:before {
+  content: "\ecbf"; }
+
+/* line 2908, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-weather-lightning:before {
+  content: "\ecc0"; }
+
+/* line 2911, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-weather-lightning2:before {
+  content: "\ecc1"; }
+
+/* line 2914, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-weather-rain:before {
+  content: "\ecc2"; }
+
+/* line 2917, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-weather-rain2:before {
+  content: "\ecc3"; }
+
+/* line 2920, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-weather-snow:before {
+  content: "\ecc4"; }
+
+/* line 2923, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-weather-snow2:before {
+  content: "\ecc5"; }
+
+/* line 2926, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-weather-cloud-wind:before {
+  content: "\ecc6"; }
+
+/* line 2929, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-weather-cloud-wind2:before {
+  content: "\ecc7"; }
+
+/* line 2932, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-weather-cloud-sun:before {
+  content: "\ecc8"; }
+
+/* line 2935, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-weather-cloud-sun2:before {
+  content: "\ecc9"; }
+
+/* line 2938, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-weather-cloudy:before {
+  content: "\ecca"; }
+
+/* line 2941, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-weather-cloudy2:before {
+  content: "\eccb"; }
+
+/* line 2944, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-weather-sun-wind:before {
+  content: "\eccc"; }
+
+/* line 2947, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-weather-sun-wind2:before {
+  content: "\eccd"; }
+
+/* line 2950, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-sun:before {
+  content: "\ecce"; }
+
+/* line 2953, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-sun2:before {
+  content: "\eccf"; }
+
+/* line 2956, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-moon:before {
+  content: "\ecd0"; }
+
+/* line 2959, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-day-night:before {
+  content: "\ecd1"; }
+
+/* line 2962, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-day-night2:before {
+  content: "\ecd2"; }
+
+/* line 2965, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-weather-windy:before {
+  content: "\ecd3"; }
+
+/* line 2968, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-fan:before {
+  content: "\ecd4"; }
+
+/* line 2971, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-umbrella:before {
+  content: "\ecd5"; }
+
+/* line 2974, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-sun3:before {
+  content: "\ecd6"; }
+
+/* line 2977, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-contrast:before {
+  content: "\ecd7"; }
+
+/* line 2980, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-brightness-contrast:before {
+  content: "\ecd8"; }
+
+/* line 2983, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-brightness-high:before {
+  content: "\ecd9"; }
+
+/* line 2986, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-brightness-medium:before {
+  content: "\ecda"; }
+
+/* line 2989, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-brightness-low:before {
+  content: "\ecdb"; }
+
+/* line 2992, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bed:before {
+  content: "\ecdc"; }
+
+/* line 2995, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bed2:before {
+  content: "\ecdd"; }
+
+/* line 2998, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-furniture:before {
+  content: "\ecde"; }
+
+/* line 3001, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-chair:before {
+  content: "\ecdf"; }
+
+/* line 3004, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-star-empty:before {
+  content: "\ece0"; }
+
+/* line 3007, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-star-empty2:before {
+  content: "\ece1"; }
+
+/* line 3010, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-star-full:before {
+  content: "\ece2"; }
+
+/* line 3013, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-star-empty3:before {
+  content: "\ece3"; }
+
+/* line 3016, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-star-half:before {
+  content: "\ece4"; }
+
+/* line 3019, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-star-full2:before {
+  content: "\ece5"; }
+
+/* line 3022, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-star:before {
+  content: "\ece6"; }
+
+/* line 3025, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-heart:before {
+  content: "\ece7"; }
+
+/* line 3028, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-heart2:before {
+  content: "\ece8"; }
+
+/* line 3031, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-heart3:before {
+  content: "\ece9"; }
+
+/* line 3034, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-heart4:before {
+  content: "\ecea"; }
+
+/* line 3037, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-heart-broken:before {
+  content: "\eceb"; }
+
+/* line 3040, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-heart5:before {
+  content: "\ecec"; }
+
+/* line 3043, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-heart6:before {
+  content: "\eced"; }
+
+/* line 3046, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-heart-broken2:before {
+  content: "\ecee"; }
+
+/* line 3049, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-heart7:before {
+  content: "\ecef"; }
+
+/* line 3052, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-heart8:before {
+  content: "\ecf0"; }
+
+/* line 3055, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-heart-broken3:before {
+  content: "\ecf1"; }
+
+/* line 3058, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-lips:before {
+  content: "\ecf2"; }
+
+/* line 3061, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-lips2:before {
+  content: "\ecf3"; }
+
+/* line 3064, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-thumbs-up:before {
+  content: "\ecf4"; }
+
+/* line 3067, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-thumbs-up2:before {
+  content: "\ecf5"; }
+
+/* line 3070, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-thumbs-down:before {
+  content: "\ecf6"; }
+
+/* line 3073, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-thumbs-down2:before {
+  content: "\ecf7"; }
+
+/* line 3076, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-thumbs-up3:before {
+  content: "\ecf8"; }
+
+/* line 3079, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-thumbs-down3:before {
+  content: "\ecf9"; }
+
+/* line 3082, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-height:before {
+  content: "\ecfa"; }
+
+/* line 3085, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-man:before {
+  content: "\ecfb"; }
+
+/* line 3088, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-woman:before {
+  content: "\ecfc"; }
+
+/* line 3091, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-man-woman:before {
+  content: "\ecfd"; }
+
+/* line 3094, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-male:before {
+  content: "\ecfe"; }
+
+/* line 3097, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-female:before {
+  content: "\ecff"; }
+
+/* line 3100, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-peace:before {
+  content: "\ed00"; }
+
+/* line 3103, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-yin-yang:before {
+  content: "\ed01"; }
+
+/* line 3106, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-happy:before {
+  content: "\ed02"; }
+
+/* line 3109, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-happy2:before {
+  content: "\ed03"; }
+
+/* line 3112, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-smile:before {
+  content: "\ed04"; }
+
+/* line 3115, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-smile2:before {
+  content: "\ed05"; }
+
+/* line 3118, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-tongue:before {
+  content: "\ed06"; }
+
+/* line 3121, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-tongue2:before {
+  content: "\ed07"; }
+
+/* line 3124, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-sad:before {
+  content: "\ed08"; }
+
+/* line 3127, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-sad2:before {
+  content: "\ed09"; }
+
+/* line 3130, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-wink:before {
+  content: "\ed0a"; }
+
+/* line 3133, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-wink2:before {
+  content: "\ed0b"; }
+
+/* line 3136, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-grin:before {
+  content: "\ed0c"; }
+
+/* line 3139, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-grin2:before {
+  content: "\ed0d"; }
+
+/* line 3142, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cool:before {
+  content: "\ed0e"; }
+
+/* line 3145, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cool2:before {
+  content: "\ed0f"; }
+
+/* line 3148, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-angry:before {
+  content: "\ed10"; }
+
+/* line 3151, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-angry2:before {
+  content: "\ed11"; }
+
+/* line 3154, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-evil:before {
+  content: "\ed12"; }
+
+/* line 3157, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-evil2:before {
+  content: "\ed13"; }
+
+/* line 3160, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-shocked:before {
+  content: "\ed14"; }
+
+/* line 3163, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-shocked2:before {
+  content: "\ed15"; }
+
+/* line 3166, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-baffled:before {
+  content: "\ed16"; }
+
+/* line 3169, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-baffled2:before {
+  content: "\ed17"; }
+
+/* line 3172, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-confused:before {
+  content: "\ed18"; }
+
+/* line 3175, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-confused2:before {
+  content: "\ed19"; }
+
+/* line 3178, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-neutral:before {
+  content: "\ed1a"; }
+
+/* line 3181, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-neutral2:before {
+  content: "\ed1b"; }
+
+/* line 3184, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-hipster:before {
+  content: "\ed1c"; }
+
+/* line 3187, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-hipster2:before {
+  content: "\ed1d"; }
+
+/* line 3190, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-wondering:before {
+  content: "\ed1e"; }
+
+/* line 3193, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-wondering2:before {
+  content: "\ed1f"; }
+
+/* line 3196, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-sleepy:before {
+  content: "\ed20"; }
+
+/* line 3199, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-sleepy2:before {
+  content: "\ed21"; }
+
+/* line 3202, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-frustrated:before {
+  content: "\ed22"; }
+
+/* line 3205, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-frustrated2:before {
+  content: "\ed23"; }
+
+/* line 3208, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-crying:before {
+  content: "\ed24"; }
+
+/* line 3211, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-crying2:before {
+  content: "\ed25"; }
+
+/* line 3214, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cursor:before {
+  content: "\ed26"; }
+
+/* line 3217, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cursor2:before {
+  content: "\ed27"; }
+
+/* line 3220, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-lasso:before {
+  content: "\ed28"; }
+
+/* line 3223, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-lasso2:before {
+  content: "\ed29"; }
+
+/* line 3226, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-select:before {
+  content: "\ed2a"; }
+
+/* line 3229, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-select2:before {
+  content: "\ed2b"; }
+
+/* line 3232, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-point-up:before {
+  content: "\ed2c"; }
+
+/* line 3235, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-point-right:before {
+  content: "\ed2d"; }
+
+/* line 3238, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-point-down:before {
+  content: "\ed2e"; }
+
+/* line 3241, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-point-left:before {
+  content: "\ed2f"; }
+
+/* line 3244, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pointer:before {
+  content: "\ed30"; }
+
+/* line 3247, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-reminder:before {
+  content: "\ed31"; }
+
+/* line 3250, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-drag-left-right:before {
+  content: "\ed32"; }
+
+/* line 3253, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-drag-left:before {
+  content: "\ed33"; }
+
+/* line 3256, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-drag-right:before {
+  content: "\ed34"; }
+
+/* line 3259, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-touch:before {
+  content: "\ed35"; }
+
+/* line 3262, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-multitouch:before {
+  content: "\ed36"; }
+
+/* line 3265, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-touch-zoom:before {
+  content: "\ed37"; }
+
+/* line 3268, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-touch-pinch:before {
+  content: "\ed38"; }
+
+/* line 3271, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-hand:before {
+  content: "\ed39"; }
+
+/* line 3274, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-grab:before {
+  content: "\ed3a"; }
+
+/* line 3277, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stack-empty:before {
+  content: "\ed3b"; }
+
+/* line 3280, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stack-plus:before {
+  content: "\ed3c"; }
+
+/* line 3283, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stack-minus:before {
+  content: "\ed3d"; }
+
+/* line 3286, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stack-star:before {
+  content: "\ed3e"; }
+
+/* line 3289, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stack-picture:before {
+  content: "\ed3f"; }
+
+/* line 3292, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stack-down:before {
+  content: "\ed40"; }
+
+/* line 3295, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stack-up:before {
+  content: "\ed41"; }
+
+/* line 3298, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stack-cancel:before {
+  content: "\ed42"; }
+
+/* line 3301, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stack-check:before {
+  content: "\ed43"; }
+
+/* line 3304, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stack-text:before {
+  content: "\ed44"; }
+
+/* line 3307, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stack-clubs:before {
+  content: "\ed45"; }
+
+/* line 3310, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stack-spades:before {
+  content: "\ed46"; }
+
+/* line 3313, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stack-hearts:before {
+  content: "\ed47"; }
+
+/* line 3316, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stack-diamonds:before {
+  content: "\ed48"; }
+
+/* line 3319, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stack-user:before {
+  content: "\ed49"; }
+
+/* line 3322, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stack4:before {
+  content: "\ed4a"; }
+
+/* line 3325, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stack-music:before {
+  content: "\ed4b"; }
+
+/* line 3328, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stack-play:before {
+  content: "\ed4c"; }
+
+/* line 3331, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-move:before {
+  content: "\ed4d"; }
+
+/* line 3334, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-dots:before {
+  content: "\ed4e"; }
+
+/* line 3337, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-warning:before {
+  content: "\ed4f"; }
+
+/* line 3340, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-warning2:before {
+  content: "\ed50"; }
+
+/* line 3343, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-notification:before {
+  content: "\ed51"; }
+
+/* line 3346, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-notification2:before {
+  content: "\ed52"; }
+
+/* line 3349, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-question:before {
+  content: "\ed53"; }
+
+/* line 3352, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-question2:before {
+  content: "\ed54"; }
+
+/* line 3355, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-question3:before {
+  content: "\ed55"; }
+
+/* line 3358, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-question4:before {
+  content: "\ed56"; }
+
+/* line 3361, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-question5:before {
+  content: "\ed57"; }
+
+/* line 3364, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-question6:before {
+  content: "\ed58"; }
+
+/* line 3367, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-plus:before {
+  content: "\ed59"; }
+
+/* line 3370, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-minus:before {
+  content: "\ed5a"; }
+
+/* line 3373, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-plus2:before {
+  content: "\ed5b"; }
+
+/* line 3376, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-minus2:before {
+  content: "\ed5c"; }
+
+/* line 3379, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-plus3:before {
+  content: "\ed5d"; }
+
+/* line 3382, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-minus3:before {
+  content: "\ed5e"; }
+
+/* line 3385, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-plus-circle:before {
+  content: "\ed5f"; }
+
+/* line 3388, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-minus-circle:before {
+  content: "\ed60"; }
+
+/* line 3391, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-plus-circle2:before {
+  content: "\ed61"; }
+
+/* line 3394, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-minus-circle2:before {
+  content: "\ed62"; }
+
+/* line 3397, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-info:before {
+  content: "\ed63"; }
+
+/* line 3400, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-info2:before {
+  content: "\ed64"; }
+
+/* line 3403, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cancel-circle:before {
+  content: "\ed65"; }
+
+/* line 3406, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cancel-circle2:before {
+  content: "\ed66"; }
+
+/* line 3409, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-blocked:before {
+  content: "\ed67"; }
+
+/* line 3412, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cancel-square:before {
+  content: "\ed68"; }
+
+/* line 3415, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cancel-square2:before {
+  content: "\ed69"; }
+
+/* line 3418, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cancel:before {
+  content: "\ed6a"; }
+
+/* line 3421, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-spam:before {
+  content: "\ed6b"; }
+
+/* line 3424, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cross:before {
+  content: "\ed6c"; }
+
+/* line 3427, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cross2:before {
+  content: "\ed6d"; }
+
+/* line 3430, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-cross3:before {
+  content: "\ed6e"; }
+
+/* line 3433, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-checkmark:before {
+  content: "\ed6f"; }
+
+/* line 3436, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-checkmark2:before {
+  content: "\ed70"; }
+
+/* line 3439, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-checkmark3:before {
+  content: "\ed71"; }
+
+/* line 3442, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-checkmark4:before {
+  content: "\ed72"; }
+
+/* line 3445, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-checkmark5:before {
+  content: "\ed73"; }
+
+/* line 3448, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-spell-check:before {
+  content: "\ed74"; }
+
+/* line 3451, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-spell-check2:before {
+  content: "\ed75"; }
+
+/* line 3454, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-enter:before {
+  content: "\ed76"; }
+
+/* line 3457, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-exit:before {
+  content: "\ed77"; }
+
+/* line 3460, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-enter2:before {
+  content: "\ed78"; }
+
+/* line 3463, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-exit2:before {
+  content: "\ed79"; }
+
+/* line 3466, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-enter3:before {
+  content: "\ed7a"; }
+
+/* line 3469, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-exit3:before {
+  content: "\ed7b"; }
+
+/* line 3472, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-wall:before {
+  content: "\ed7c"; }
+
+/* line 3475, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-fence:before {
+  content: "\ed7d"; }
+
+/* line 3478, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-play3:before {
+  content: "\ed7e"; }
+
+/* line 3481, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pause:before {
+  content: "\ed7f"; }
+
+/* line 3484, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stop:before {
+  content: "\ed80"; }
+
+/* line 3487, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-previous:before {
+  content: "\ed81"; }
+
+/* line 3490, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-next:before {
+  content: "\ed82"; }
+
+/* line 3493, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-backward:before {
+  content: "\ed83"; }
+
+/* line 3496, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-forward2:before {
+  content: "\ed84"; }
+
+/* line 3499, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-play4:before {
+  content: "\ed85"; }
+
+/* line 3502, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pause2:before {
+  content: "\ed86"; }
+
+/* line 3505, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stop2:before {
+  content: "\ed87"; }
+
+/* line 3508, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-backward2:before {
+  content: "\ed88"; }
+
+/* line 3511, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-forward3:before {
+  content: "\ed89"; }
+
+/* line 3514, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-first:before {
+  content: "\ed8a"; }
+
+/* line 3517, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-last:before {
+  content: "\ed8b"; }
+
+/* line 3520, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-previous2:before {
+  content: "\ed8c"; }
+
+/* line 3523, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-next2:before {
+  content: "\ed8d"; }
+
+/* line 3526, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-eject:before {
+  content: "\ed8e"; }
+
+/* line 3529, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-volume-high:before {
+  content: "\ed8f"; }
+
+/* line 3532, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-volume-medium:before {
+  content: "\ed90"; }
+
+/* line 3535, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-volume-low:before {
+  content: "\ed91"; }
+
+/* line 3538, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-volume-mute:before {
+  content: "\ed92"; }
+
+/* line 3541, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-speaker-left:before {
+  content: "\ed93"; }
+
+/* line 3544, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-speaker-right:before {
+  content: "\ed94"; }
+
+/* line 3547, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-volume-mute2:before {
+  content: "\ed95"; }
+
+/* line 3550, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-volume-increase:before {
+  content: "\ed96"; }
+
+/* line 3553, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-volume-decrease:before {
+  content: "\ed97"; }
+
+/* line 3556, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-volume-high2:before {
+  content: "\ed98"; }
+
+/* line 3559, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-volume-medium2:before {
+  content: "\ed99"; }
+
+/* line 3562, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-volume-medium3:before {
+  content: "\ed9a"; }
+
+/* line 3565, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-volume-low2:before {
+  content: "\ed9b"; }
+
+/* line 3568, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-volume-mute3:before {
+  content: "\ed9c"; }
+
+/* line 3571, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-volume-increase2:before {
+  content: "\ed9d"; }
+
+/* line 3574, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-volume-decrease2:before {
+  content: "\ed9e"; }
+
+/* line 3577, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-volume-decrease3:before {
+  content: "\ed9f"; }
+
+/* line 3580, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-volume-5:before {
+  content: "\eda0"; }
+
+/* line 3583, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-volume-4:before {
+  content: "\eda1"; }
+
+/* line 3586, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-volume-3:before {
+  content: "\eda2"; }
+
+/* line 3589, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-volume-2:before {
+  content: "\eda3"; }
+
+/* line 3592, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-volume-1:before {
+  content: "\eda4"; }
+
+/* line 3595, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-volume-0:before {
+  content: "\eda5"; }
+
+/* line 3598, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-volume-mute4:before {
+  content: "\eda6"; }
+
+/* line 3601, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-volume-mute5:before {
+  content: "\eda7"; }
+
+/* line 3604, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-loop:before {
+  content: "\eda8"; }
+
+/* line 3607, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-loop2:before {
+  content: "\eda9"; }
+
+/* line 3610, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-loop3:before {
+  content: "\edaa"; }
+
+/* line 3613, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-infinite-square:before {
+  content: "\edab"; }
+
+/* line 3616, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-infinite:before {
+  content: "\edac"; }
+
+/* line 3619, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-infinite2:before {
+  content: "\edad"; }
+
+/* line 3622, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-loop4:before {
+  content: "\edae"; }
+
+/* line 3625, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-shuffle:before {
+  content: "\edaf"; }
+
+/* line 3628, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-shuffle2:before {
+  content: "\edb0"; }
+
+/* line 3631, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-wave:before {
+  content: "\edb1"; }
+
+/* line 3634, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-wave2:before {
+  content: "\edb2"; }
+
+/* line 3637, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-split:before {
+  content: "\edb3"; }
+
+/* line 3640, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-merge:before {
+  content: "\edb4"; }
+
+/* line 3643, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-first2:before {
+  content: "\edb5"; }
+
+/* line 3646, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-last2:before {
+  content: "\edb6"; }
+
+/* line 3649, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-up:before {
+  content: "\edb7"; }
+
+/* line 3652, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-up2:before {
+  content: "\edb8"; }
+
+/* line 3655, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-up3:before {
+  content: "\edb9"; }
+
+/* line 3658, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-up4:before {
+  content: "\edba"; }
+
+/* line 3661, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-right:before {
+  content: "\edbb"; }
+
+/* line 3664, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-right2:before {
+  content: "\edbc"; }
+
+/* line 3667, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-right3:before {
+  content: "\edbd"; }
+
+/* line 3670, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-right4:before {
+  content: "\edbe"; }
+
+/* line 3673, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-down:before {
+  content: "\edbf"; }
+
+/* line 3676, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-down2:before {
+  content: "\edc0"; }
+
+/* line 3679, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-down3:before {
+  content: "\edc1"; }
+
+/* line 3682, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-down4:before {
+  content: "\edc2"; }
+
+/* line 3685, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-left:before {
+  content: "\edc3"; }
+
+/* line 3688, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-left2:before {
+  content: "\edc4"; }
+
+/* line 3691, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-left3:before {
+  content: "\edc5"; }
+
+/* line 3694, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-left4:before {
+  content: "\edc6"; }
+
+/* line 3697, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-up5:before {
+  content: "\edc7"; }
+
+/* line 3700, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-right5:before {
+  content: "\edc8"; }
+
+/* line 3703, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-down5:before {
+  content: "\edc9"; }
+
+/* line 3706, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-left5:before {
+  content: "\edca"; }
+
+/* line 3709, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-up-left:before {
+  content: "\edcb"; }
+
+/* line 3712, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-up6:before {
+  content: "\edcc"; }
+
+/* line 3715, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-up-right:before {
+  content: "\edcd"; }
+
+/* line 3718, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-right6:before {
+  content: "\edce"; }
+
+/* line 3721, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-down-right:before {
+  content: "\edcf"; }
+
+/* line 3724, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-down6:before {
+  content: "\edd0"; }
+
+/* line 3727, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-down-left:before {
+  content: "\edd1"; }
+
+/* line 3730, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-left6:before {
+  content: "\edd2"; }
+
+/* line 3733, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-up-left2:before {
+  content: "\edd3"; }
+
+/* line 3736, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-up7:before {
+  content: "\edd4"; }
+
+/* line 3739, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-up-right2:before {
+  content: "\edd5"; }
+
+/* line 3742, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-right7:before {
+  content: "\edd6"; }
+
+/* line 3745, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-down-right2:before {
+  content: "\edd7"; }
+
+/* line 3748, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-down7:before {
+  content: "\edd8"; }
+
+/* line 3751, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-down-left2:before {
+  content: "\edd9"; }
+
+/* line 3754, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-left7:before {
+  content: "\edda"; }
+
+/* line 3757, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-up-left3:before {
+  content: "\eddb"; }
+
+/* line 3760, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-up8:before {
+  content: "\eddc"; }
+
+/* line 3763, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-up-right3:before {
+  content: "\eddd"; }
+
+/* line 3766, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-right8:before {
+  content: "\edde"; }
+
+/* line 3769, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-down-right3:before {
+  content: "\eddf"; }
+
+/* line 3772, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-down8:before {
+  content: "\ede0"; }
+
+/* line 3775, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-down-left3:before {
+  content: "\ede1"; }
+
+/* line 3778, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-left8:before {
+  content: "\ede2"; }
+
+/* line 3781, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-circle-up:before {
+  content: "\ede3"; }
+
+/* line 3784, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-circle-right:before {
+  content: "\ede4"; }
+
+/* line 3787, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-circle-down:before {
+  content: "\ede5"; }
+
+/* line 3790, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-circle-left:before {
+  content: "\ede6"; }
+
+/* line 3793, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-circle-up2:before {
+  content: "\ede7"; }
+
+/* line 3796, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-circle-right2:before {
+  content: "\ede8"; }
+
+/* line 3799, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-circle-down2:before {
+  content: "\ede9"; }
+
+/* line 3802, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-circle-left2:before {
+  content: "\edea"; }
+
+/* line 3805, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-circle-up-left:before {
+  content: "\edeb"; }
+
+/* line 3808, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-circle-up3:before {
+  content: "\edec"; }
+
+/* line 3811, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-circle-up-right:before {
+  content: "\eded"; }
+
+/* line 3814, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-circle-right3:before {
+  content: "\edee"; }
+
+/* line 3817, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-circle-down-right:before {
+  content: "\edef"; }
+
+/* line 3820, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-circle-down3:before {
+  content: "\edf0"; }
+
+/* line 3823, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-circle-down-left:before {
+  content: "\edf1"; }
+
+/* line 3826, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-circle-left3:before {
+  content: "\edf2"; }
+
+/* line 3829, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-circle-up-left2:before {
+  content: "\edf3"; }
+
+/* line 3832, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-circle-up4:before {
+  content: "\edf4"; }
+
+/* line 3835, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-circle-up-right2:before {
+  content: "\edf5"; }
+
+/* line 3838, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-circle-right4:before {
+  content: "\edf6"; }
+
+/* line 3841, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-circle-down-right2:before {
+  content: "\edf7"; }
+
+/* line 3844, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-circle-down4:before {
+  content: "\edf8"; }
+
+/* line 3847, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-circle-down-left2:before {
+  content: "\edf9"; }
+
+/* line 3850, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-circle-left4:before {
+  content: "\edfa"; }
+
+/* line 3853, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-resize:before {
+  content: "\edfb"; }
+
+/* line 3856, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-resize2:before {
+  content: "\edfc"; }
+
+/* line 3859, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-resize3:before {
+  content: "\edfd"; }
+
+/* line 3862, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-resize4:before {
+  content: "\edfe"; }
+
+/* line 3865, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-resize5:before {
+  content: "\edff"; }
+
+/* line 3868, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-resize6:before {
+  content: "\ee00"; }
+
+/* line 3871, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-resize7:before {
+  content: "\ee01"; }
+
+/* line 3874, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-resize8:before {
+  content: "\ee02"; }
+
+/* line 3877, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-square-up-left:before {
+  content: "\ee03"; }
+
+/* line 3880, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-square-up:before {
+  content: "\ee04"; }
+
+/* line 3883, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-square-up-right:before {
+  content: "\ee05"; }
+
+/* line 3886, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-square-right:before {
+  content: "\ee06"; }
+
+/* line 3889, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-square-down-right:before {
+  content: "\ee07"; }
+
+/* line 3892, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-square-down:before {
+  content: "\ee08"; }
+
+/* line 3895, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-square-down-left:before {
+  content: "\ee09"; }
+
+/* line 3898, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-square-left:before {
+  content: "\ee0a"; }
+
+/* line 3901, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-up9:before {
+  content: "\ee0b"; }
+
+/* line 3904, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-right9:before {
+  content: "\ee0c"; }
+
+/* line 3907, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-down9:before {
+  content: "\ee0d"; }
+
+/* line 3910, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-left9:before {
+  content: "\ee0e"; }
+
+/* line 3913, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-up10:before {
+  content: "\ee0f"; }
+
+/* line 3916, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-right10:before {
+  content: "\ee10"; }
+
+/* line 3919, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-down10:before {
+  content: "\ee11"; }
+
+/* line 3922, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-left10:before {
+  content: "\ee12"; }
+
+/* line 3925, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-up-left4:before {
+  content: "\ee13"; }
+
+/* line 3928, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-up11:before {
+  content: "\ee14"; }
+
+/* line 3931, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-up-right4:before {
+  content: "\ee15"; }
+
+/* line 3934, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-right11:before {
+  content: "\ee16"; }
+
+/* line 3937, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-down-right4:before {
+  content: "\ee17"; }
+
+/* line 3940, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-down11:before {
+  content: "\ee18"; }
+
+/* line 3943, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-down-left4:before {
+  content: "\ee19"; }
+
+/* line 3946, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-left11:before {
+  content: "\ee1a"; }
+
+/* line 3949, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-up-left5:before {
+  content: "\ee1b"; }
+
+/* line 3952, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-up12:before {
+  content: "\ee1c"; }
+
+/* line 3955, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-up-right5:before {
+  content: "\ee1d"; }
+
+/* line 3958, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-right12:before {
+  content: "\ee1e"; }
+
+/* line 3961, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-down-right5:before {
+  content: "\ee1f"; }
+
+/* line 3964, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-down12:before {
+  content: "\ee20"; }
+
+/* line 3967, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-down-left5:before {
+  content: "\ee21"; }
+
+/* line 3970, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-left12:before {
+  content: "\ee22"; }
+
+/* line 3973, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-up13:before {
+  content: "\ee23"; }
+
+/* line 3976, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-right13:before {
+  content: "\ee24"; }
+
+/* line 3979, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-down13:before {
+  content: "\ee25"; }
+
+/* line 3982, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-left13:before {
+  content: "\ee26"; }
+
+/* line 3985, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-up14:before {
+  content: "\ee27"; }
+
+/* line 3988, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-right14:before {
+  content: "\ee28"; }
+
+/* line 3991, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-down14:before {
+  content: "\ee29"; }
+
+/* line 3994, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-left14:before {
+  content: "\ee2a"; }
+
+/* line 3997, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-circle-up5:before {
+  content: "\ee2b"; }
+
+/* line 4000, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-circle-right5:before {
+  content: "\ee2c"; }
+
+/* line 4003, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-circle-down5:before {
+  content: "\ee2d"; }
+
+/* line 4006, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-circle-left5:before {
+  content: "\ee2e"; }
+
+/* line 4009, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-circle-up6:before {
+  content: "\ee2f"; }
+
+/* line 4012, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-circle-right6:before {
+  content: "\ee30"; }
+
+/* line 4015, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-circle-down6:before {
+  content: "\ee31"; }
+
+/* line 4018, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-circle-left6:before {
+  content: "\ee32"; }
+
+/* line 4021, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-up15:before {
+  content: "\ee33"; }
+
+/* line 4024, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-right15:before {
+  content: "\ee34"; }
+
+/* line 4027, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-down15:before {
+  content: "\ee35"; }
+
+/* line 4030, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-left15:before {
+  content: "\ee36"; }
+
+/* line 4033, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-up16:before {
+  content: "\ee37"; }
+
+/* line 4036, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-right16:before {
+  content: "\ee38"; }
+
+/* line 4039, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-down16:before {
+  content: "\ee39"; }
+
+/* line 4042, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-arrow-left16:before {
+  content: "\ee3a"; }
+
+/* line 4045, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-menu-open:before {
+  content: "\ee3b"; }
+
+/* line 4048, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-menu-open2:before {
+  content: "\ee3c"; }
+
+/* line 4051, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-menu-close:before {
+  content: "\ee3d"; }
+
+/* line 4054, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-menu-close2:before {
+  content: "\ee3e"; }
+
+/* line 4057, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-enter4:before {
+  content: "\ee3f"; }
+
+/* line 4060, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-enter5:before {
+  content: "\ee40"; }
+
+/* line 4063, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-esc:before {
+  content: "\ee41"; }
+
+/* line 4066, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-enter6:before {
+  content: "\ee42"; }
+
+/* line 4069, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-backspace:before {
+  content: "\ee43"; }
+
+/* line 4072, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-backspace2:before {
+  content: "\ee44"; }
+
+/* line 4075, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-tab:before {
+  content: "\ee45"; }
+
+/* line 4078, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-transmission:before {
+  content: "\ee46"; }
+
+/* line 4081, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-transmission2:before {
+  content: "\ee47"; }
+
+/* line 4084, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-sort:before {
+  content: "\ee48"; }
+
+/* line 4087, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-sort2:before {
+  content: "\ee49"; }
+
+/* line 4090, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-move-up:before {
+  content: "\ee4a"; }
+
+/* line 4093, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-move-down:before {
+  content: "\ee4b"; }
+
+/* line 4096, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-sort-alpha-asc:before {
+  content: "\ee4c"; }
+
+/* line 4099, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-sort-alpha-desc:before {
+  content: "\ee4d"; }
+
+/* line 4102, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-sort-numeric-asc:before {
+  content: "\ee4e"; }
+
+/* line 4105, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-sort-numberic-desc:before {
+  content: "\ee4f"; }
+
+/* line 4108, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-sort-amount-asc:before {
+  content: "\ee50"; }
+
+/* line 4111, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-sort-amount-desc:before {
+  content: "\ee51"; }
+
+/* line 4114, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-sort-time-asc:before {
+  content: "\ee52"; }
+
+/* line 4117, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-sort-time-desc:before {
+  content: "\ee53"; }
+
+/* line 4120, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-battery-6:before {
+  content: "\ee54"; }
+
+/* line 4123, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-battery-5:before {
+  content: "\ee55"; }
+
+/* line 4126, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-battery-4:before {
+  content: "\ee56"; }
+
+/* line 4129, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-battery-3:before {
+  content: "\ee57"; }
+
+/* line 4132, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-battery-2:before {
+  content: "\ee58"; }
+
+/* line 4135, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-battery-1:before {
+  content: "\ee59"; }
+
+/* line 4138, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-battery-0:before {
+  content: "\ee5a"; }
+
+/* line 4141, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-battery-charging:before {
+  content: "\ee5b"; }
+
+/* line 4144, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-key-keyboard:before {
+  content: "\ee5c"; }
+
+/* line 4147, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-key-A:before {
+  content: "\ee5d"; }
+
+/* line 4150, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-key-up:before {
+  content: "\ee5e"; }
+
+/* line 4153, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-key-right:before {
+  content: "\ee5f"; }
+
+/* line 4156, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-key-down:before {
+  content: "\ee60"; }
+
+/* line 4159, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-key-left:before {
+  content: "\ee61"; }
+
+/* line 4162, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-command:before {
+  content: "\ee62"; }
+
+/* line 4165, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-shift:before {
+  content: "\ee63"; }
+
+/* line 4168, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-ctrl:before {
+  content: "\ee64"; }
+
+/* line 4171, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-opt:before {
+  content: "\ee65"; }
+
+/* line 4174, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-checkbox-checked:before {
+  content: "\ee66"; }
+
+/* line 4177, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-checkbox-unchecked:before {
+  content: "\ee67"; }
+
+/* line 4180, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-checkbox-partial:before {
+  content: "\ee68"; }
+
+/* line 4183, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-square:before {
+  content: "\ee69"; }
+
+/* line 4186, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-triangle:before {
+  content: "\ee6a"; }
+
+/* line 4189, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-triangle2:before {
+  content: "\ee6b"; }
+
+/* line 4192, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-diamond3:before {
+  content: "\ee6c"; }
+
+/* line 4195, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-diamond4:before {
+  content: "\ee6d"; }
+
+/* line 4198, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-checkbox-checked2:before {
+  content: "\ee6e"; }
+
+/* line 4201, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-checkbox-unchecked2:before {
+  content: "\ee6f"; }
+
+/* line 4204, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-checkbox-partial2:before {
+  content: "\ee70"; }
+
+/* line 4207, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-radio-checked:before {
+  content: "\ee71"; }
+
+/* line 4210, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-radio-checked2:before {
+  content: "\ee72"; }
+
+/* line 4213, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-radio-unchecked:before {
+  content: "\ee73"; }
+
+/* line 4216, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-toggle-on:before {
+  content: "\ee74"; }
+
+/* line 4219, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-toggle-off:before {
+  content: "\ee75"; }
+
+/* line 4222, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-checkmark-circle:before {
+  content: "\ee76"; }
+
+/* line 4225, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-circle:before {
+  content: "\ee77"; }
+
+/* line 4228, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-circle2:before {
+  content: "\ee78"; }
+
+/* line 4231, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-circles:before {
+  content: "\ee79"; }
+
+/* line 4234, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-circles2:before {
+  content: "\ee7a"; }
+
+/* line 4237, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-crop:before {
+  content: "\ee7b"; }
+
+/* line 4240, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-crop2:before {
+  content: "\ee7c"; }
+
+/* line 4243, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-make-group:before {
+  content: "\ee7d"; }
+
+/* line 4246, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-ungroup:before {
+  content: "\ee7e"; }
+
+/* line 4249, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-vector:before {
+  content: "\ee7f"; }
+
+/* line 4252, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-vector2:before {
+  content: "\ee80"; }
+
+/* line 4255, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-rulers:before {
+  content: "\ee81"; }
+
+/* line 4258, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-ruler:before {
+  content: "\ee82"; }
+
+/* line 4261, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pencil-ruler:before {
+  content: "\ee83"; }
+
+/* line 4264, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-scissors:before {
+  content: "\ee84"; }
+
+/* line 4267, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-scissors2:before {
+  content: "\ee85"; }
+
+/* line 4270, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-scissors3:before {
+  content: "\ee86"; }
+
+/* line 4273, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-haircut:before {
+  content: "\ee87"; }
+
+/* line 4276, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-comb:before {
+  content: "\ee88"; }
+
+/* line 4279, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-filter:before {
+  content: "\ee89"; }
+
+/* line 4282, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-filter2:before {
+  content: "\ee8a"; }
+
+/* line 4285, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-filter3:before {
+  content: "\ee8b"; }
+
+/* line 4288, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-filter4:before {
+  content: "\ee8c"; }
+
+/* line 4291, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-font:before {
+  content: "\ee8d"; }
+
+/* line 4294, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-ampersand:before {
+  content: "\ee8e"; }
+
+/* line 4297, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-ligature:before {
+  content: "\ee8f"; }
+
+/* line 4300, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-ligature2:before {
+  content: "\ee90"; }
+
+/* line 4303, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-font-size:before {
+  content: "\ee91"; }
+
+/* line 4306, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-typography:before {
+  content: "\ee92"; }
+
+/* line 4309, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-text-height:before {
+  content: "\ee93"; }
+
+/* line 4312, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-text-width:before {
+  content: "\ee94"; }
+
+/* line 4315, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-height2:before {
+  content: "\ee95"; }
+
+/* line 4318, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-width:before {
+  content: "\ee96"; }
+
+/* line 4321, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bold:before {
+  content: "\ee97"; }
+
+/* line 4324, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-underline:before {
+  content: "\ee98"; }
+
+/* line 4327, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-italic:before {
+  content: "\ee99"; }
+
+/* line 4330, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-strikethrough:before {
+  content: "\ee9a"; }
+
+/* line 4333, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-strikethrough2:before {
+  content: "\ee9b"; }
+
+/* line 4336, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-font-size2:before {
+  content: "\ee9c"; }
+
+/* line 4339, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-bold2:before {
+  content: "\ee9d"; }
+
+/* line 4342, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-underline2:before {
+  content: "\ee9e"; }
+
+/* line 4345, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-italic2:before {
+  content: "\ee9f"; }
+
+/* line 4348, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-strikethrough3:before {
+  content: "\eea0"; }
+
+/* line 4351, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-omega:before {
+  content: "\eea1"; }
+
+/* line 4354, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-sigma:before {
+  content: "\eea2"; }
+
+/* line 4357, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-nbsp:before {
+  content: "\eea3"; }
+
+/* line 4360, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-page-break:before {
+  content: "\eea4"; }
+
+/* line 4363, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-page-break2:before {
+  content: "\eea5"; }
+
+/* line 4366, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-superscript:before {
+  content: "\eea6"; }
+
+/* line 4369, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-subscript:before {
+  content: "\eea7"; }
+
+/* line 4372, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-superscript2:before {
+  content: "\eea8"; }
+
+/* line 4375, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-subscript2:before {
+  content: "\eea9"; }
+
+/* line 4378, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-text-color:before {
+  content: "\eeaa"; }
+
+/* line 4381, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-highlight:before {
+  content: "\eeab"; }
+
+/* line 4384, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pagebreak:before {
+  content: "\eeac"; }
+
+/* line 4387, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-clear-formatting:before {
+  content: "\eead"; }
+
+/* line 4390, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-table:before {
+  content: "\eeae"; }
+
+/* line 4393, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-table2:before {
+  content: "\eeaf"; }
+
+/* line 4396, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-insert-template:before {
+  content: "\eeb0"; }
+
+/* line 4399, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pilcrow:before {
+  content: "\eeb1"; }
+
+/* line 4402, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-ltr:before {
+  content: "\eeb2"; }
+
+/* line 4405, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-rtl:before {
+  content: "\eeb3"; }
+
+/* line 4408, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-ltr2:before {
+  content: "\eeb4"; }
+
+/* line 4411, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-rtl2:before {
+  content: "\eeb5"; }
+
+/* line 4414, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-section:before {
+  content: "\eeb6"; }
+
+/* line 4417, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-paragraph-left:before {
+  content: "\eeb7"; }
+
+/* line 4420, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-paragraph-center:before {
+  content: "\eeb8"; }
+
+/* line 4423, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-paragraph-right:before {
+  content: "\eeb9"; }
+
+/* line 4426, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-paragraph-justify:before {
+  content: "\eeba"; }
+
+/* line 4429, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-paragraph-left2:before {
+  content: "\eebb"; }
+
+/* line 4432, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-paragraph-center2:before {
+  content: "\eebc"; }
+
+/* line 4435, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-paragraph-right2:before {
+  content: "\eebd"; }
+
+/* line 4438, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-paragraph-justify2:before {
+  content: "\eebe"; }
+
+/* line 4441, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-indent-increase:before {
+  content: "\eebf"; }
+
+/* line 4444, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-indent-decrease:before {
+  content: "\eec0"; }
+
+/* line 4447, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-paragraph-left3:before {
+  content: "\eec1"; }
+
+/* line 4450, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-paragraph-center3:before {
+  content: "\eec2"; }
+
+/* line 4453, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-paragraph-right3:before {
+  content: "\eec3"; }
+
+/* line 4456, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-paragraph-justify3:before {
+  content: "\eec4"; }
+
+/* line 4459, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-indent-increase2:before {
+  content: "\eec5"; }
+
+/* line 4462, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-indent-decrease2:before {
+  content: "\eec6"; }
+
+/* line 4465, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-share:before {
+  content: "\eec7"; }
+
+/* line 4468, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-share2:before {
+  content: "\eec8"; }
+
+/* line 4471, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-new-tab:before {
+  content: "\eec9"; }
+
+/* line 4474, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-new-tab2:before {
+  content: "\eeca"; }
+
+/* line 4477, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-popout:before {
+  content: "\eecb"; }
+
+/* line 4480, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-embed:before {
+  content: "\eecc"; }
+
+/* line 4483, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-embed2:before {
+  content: "\eecd"; }
+
+/* line 4486, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-markup:before {
+  content: "\eece"; }
+
+/* line 4489, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-regexp:before {
+  content: "\eecf"; }
+
+/* line 4492, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-regexp2:before {
+  content: "\eed0"; }
+
+/* line 4495, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-code:before {
+  content: "\eed1"; }
+
+/* line 4498, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-circle-css:before {
+  content: "\eed2"; }
+
+/* line 4501, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-circle-code:before {
+  content: "\eed3"; }
+
+/* line 4504, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-terminal:before {
+  content: "\eed4"; }
+
+/* line 4507, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-unicode:before {
+  content: "\eed5"; }
+
+/* line 4510, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-seven-segment-0:before {
+  content: "\eed6"; }
+
+/* line 4513, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-seven-segment-1:before {
+  content: "\eed7"; }
+
+/* line 4516, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-seven-segment-2:before {
+  content: "\eed8"; }
+
+/* line 4519, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-seven-segment-3:before {
+  content: "\eed9"; }
+
+/* line 4522, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-seven-segment-4:before {
+  content: "\eeda"; }
+
+/* line 4525, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-seven-segment-5:before {
+  content: "\eedb"; }
+
+/* line 4528, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-seven-segment-6:before {
+  content: "\eedc"; }
+
+/* line 4531, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-seven-segment-7:before {
+  content: "\eedd"; }
+
+/* line 4534, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-seven-segment-8:before {
+  content: "\eede"; }
+
+/* line 4537, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-seven-segment-9:before {
+  content: "\eedf"; }
+
+/* line 4540, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-share3:before {
+  content: "\eee0"; }
+
+/* line 4543, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-share4:before {
+  content: "\eee1"; }
+
+/* line 4546, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-mail:before {
+  content: "\eee2"; }
+
+/* line 4549, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-mail2:before {
+  content: "\eee3"; }
+
+/* line 4552, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-mail3:before {
+  content: "\eee4"; }
+
+/* line 4555, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-mail4:before {
+  content: "\eee5"; }
+
+/* line 4558, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-amazon:before {
+  content: "\eee6"; }
+
+/* line 4561, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-google:before {
+  content: "\eee7"; }
+
+/* line 4564, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-google2:before {
+  content: "\eee8"; }
+
+/* line 4567, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-google3:before {
+  content: "\eee9"; }
+
+/* line 4570, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-google-plus:before {
+  content: "\eeea"; }
+
+/* line 4573, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-google-plus2:before {
+  content: "\eeeb"; }
+
+/* line 4576, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-google-plus3:before {
+  content: "\eeec"; }
+
+/* line 4579, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-hangouts:before {
+  content: "\eeed"; }
+
+/* line 4582, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-google-drive:before {
+  content: "\eeee"; }
+
+/* line 4585, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-facebook:before {
+  content: "\eeef"; }
+
+/* line 4588, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-facebook2:before {
+  content: "\eef0"; }
+
+/* line 4591, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-instagram:before {
+  content: "\eef1"; }
+
+/* line 4594, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-whatsapp:before {
+  content: "\eef2"; }
+
+/* line 4597, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-spotify:before {
+  content: "\eef3"; }
+
+/* line 4600, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-telegram:before {
+  content: "\eef4"; }
+
+/* line 4603, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-twitter:before {
+  content: "\eef5"; }
+
+/* line 4606, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-vine:before {
+  content: "\eef6"; }
+
+/* line 4609, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-vk:before {
+  content: "\eef7"; }
+
+/* line 4612, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-renren:before {
+  content: "\eef8"; }
+
+/* line 4615, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-sina-weibo:before {
+  content: "\eef9"; }
+
+/* line 4618, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-rss:before {
+  content: "\eefa"; }
+
+/* line 4621, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-rss2:before {
+  content: "\eefb"; }
+
+/* line 4624, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-youtube:before {
+  content: "\eefc"; }
+
+/* line 4627, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-youtube2:before {
+  content: "\eefd"; }
+
+/* line 4630, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-twitch:before {
+  content: "\eefe"; }
+
+/* line 4633, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-vimeo:before {
+  content: "\eeff"; }
+
+/* line 4636, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-vimeo2:before {
+  content: "\ef00"; }
+
+/* line 4639, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-lanyrd:before {
+  content: "\ef01"; }
+
+/* line 4642, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-flickr:before {
+  content: "\ef02"; }
+
+/* line 4645, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-flickr2:before {
+  content: "\ef03"; }
+
+/* line 4648, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-flickr3:before {
+  content: "\ef04"; }
+
+/* line 4651, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-flickr4:before {
+  content: "\ef05"; }
+
+/* line 4654, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-dribbble:before {
+  content: "\ef06"; }
+
+/* line 4657, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-behance:before {
+  content: "\ef07"; }
+
+/* line 4660, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-behance2:before {
+  content: "\ef08"; }
+
+/* line 4663, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-deviantart:before {
+  content: "\ef09"; }
+
+/* line 4666, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-500px:before {
+  content: "\ef0a"; }
+
+/* line 4669, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-steam:before {
+  content: "\ef0b"; }
+
+/* line 4672, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-steam2:before {
+  content: "\ef0c"; }
+
+/* line 4675, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-dropbox:before {
+  content: "\ef0d"; }
+
+/* line 4678, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-onedrive:before {
+  content: "\ef0e"; }
+
+/* line 4681, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-github:before {
+  content: "\ef0f"; }
+
+/* line 4684, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-npm:before {
+  content: "\ef10"; }
+
+/* line 4687, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-basecamp:before {
+  content: "\ef11"; }
+
+/* line 4690, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-trello:before {
+  content: "\ef12"; }
+
+/* line 4693, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-wordpress:before {
+  content: "\ef13"; }
+
+/* line 4696, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-joomla:before {
+  content: "\ef14"; }
+
+/* line 4699, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-ello:before {
+  content: "\ef15"; }
+
+/* line 4702, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-blogger:before {
+  content: "\ef16"; }
+
+/* line 4705, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-blogger2:before {
+  content: "\ef17"; }
+
+/* line 4708, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-tumblr:before {
+  content: "\ef18"; }
+
+/* line 4711, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-tumblr2:before {
+  content: "\ef19"; }
+
+/* line 4714, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-yahoo:before {
+  content: "\ef1a"; }
+
+/* line 4717, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-yahoo2:before {
+  content: "\ef1b"; }
+
+/* line 4720, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-tux:before {
+  content: "\ef1c"; }
+
+/* line 4723, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-appleinc:before {
+  content: "\ef1d"; }
+
+/* line 4726, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-finder:before {
+  content: "\ef1e"; }
+
+/* line 4729, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-android:before {
+  content: "\ef1f"; }
+
+/* line 4732, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-windows:before {
+  content: "\ef20"; }
+
+/* line 4735, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-windows8:before {
+  content: "\ef21"; }
+
+/* line 4738, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-soundcloud:before {
+  content: "\ef22"; }
+
+/* line 4741, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-soundcloud2:before {
+  content: "\ef23"; }
+
+/* line 4744, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-skype:before {
+  content: "\ef24"; }
+
+/* line 4747, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-reddit:before {
+  content: "\ef25"; }
+
+/* line 4750, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-hackernews:before {
+  content: "\ef26"; }
+
+/* line 4753, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-wikipedia:before {
+  content: "\ef27"; }
+
+/* line 4756, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-linkedin:before {
+  content: "\ef28"; }
+
+/* line 4759, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-linkedin2:before {
+  content: "\ef29"; }
+
+/* line 4762, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-lastfm:before {
+  content: "\ef2a"; }
+
+/* line 4765, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-lastfm2:before {
+  content: "\ef2b"; }
+
+/* line 4768, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-delicious:before {
+  content: "\ef2c"; }
+
+/* line 4771, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stumbleupon:before {
+  content: "\ef2d"; }
+
+/* line 4774, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stumbleupon2:before {
+  content: "\ef2e"; }
+
+/* line 4777, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-stackoverflow:before {
+  content: "\ef2f"; }
+
+/* line 4780, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pinterest:before {
+  content: "\ef30"; }
+
+/* line 4783, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-pinterest2:before {
+  content: "\ef31"; }
+
+/* line 4786, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-xing:before {
+  content: "\ef32"; }
+
+/* line 4789, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-xing2:before {
+  content: "\ef33"; }
+
+/* line 4792, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-flattr:before {
+  content: "\ef34"; }
+
+/* line 4795, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-foursquare:before {
+  content: "\ef35"; }
+
+/* line 4798, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-yelp:before {
+  content: "\ef36"; }
+
+/* line 4801, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-paypal:before {
+  content: "\ef37"; }
+
+/* line 4804, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-chrome:before {
+  content: "\ef38"; }
+
+/* line 4807, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-firefox:before {
+  content: "\ef39"; }
+
+/* line 4810, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-IE:before {
+  content: "\ef3a"; }
+
+/* line 4813, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-edge:before {
+  content: "\ef3b"; }
+
+/* line 4816, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-safari:before {
+  content: "\ef3c"; }
+
+/* line 4819, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-opera:before {
+  content: "\ef3d"; }
+
+/* line 4822, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-pdf:before {
+  content: "\ef3e"; }
+
+/* line 4825, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-openoffice:before {
+  content: "\ef3f"; }
+
+/* line 4828, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-word:before {
+  content: "\ef40"; }
+
+/* line 4831, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-file-excel:before {
+  content: "\ef41"; }
+
+/* line 4834, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-libreoffice:before {
+  content: "\ef42"; }
+
+/* line 4837, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-html-five:before {
+  content: "\ef43"; }
+
+/* line 4840, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-html-five2:before {
+  content: "\ef44"; }
+
+/* line 4843, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-css3:before {
+  content: "\ef45"; }
+
+/* line 4846, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-git:before {
+  content: "\ef46"; }
+
+/* line 4849, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-codepen:before {
+  content: "\ef47"; }
+
+/* line 4852, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-svg:before {
+  content: "\ef48"; }
+
+/* line 4855, H:/xampp/htdocs/wp-content/themes/xpro/sass/fonts.scss */
+.gax-IcoMoon:before {
+  content: "\ef49"; }
+
+
